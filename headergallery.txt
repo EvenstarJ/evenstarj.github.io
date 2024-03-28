@@ -1,0 +1,5 @@
+<div class="headergallery">
+<div class="headergalleryitem"><img src="images/steer-bathroom-tbn.jpg" alt="Steer in Bathroom"></div>
+<div class="headergalleryitem"><img src="images/bear-with-guitar-tbn.jpg" alt="bear w guitar"></div>
+<div class="headergalleryitem"><img src="images/2-bunnies-tbn.jpg" alt="2 bunnies"></div>
+</div><!-- end headergallery -->

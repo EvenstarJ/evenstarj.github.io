@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.rubescartoons.com/sitemap.xml

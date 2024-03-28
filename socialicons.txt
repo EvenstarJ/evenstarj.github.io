@@ -1,0 +1,6 @@
+<a class="socialicons" href="http://www.facebook.com/pages/Rubes-Cartoons/328840137360?sk=wall"><img src="images/facebook-logo-transp.png" alt="Facebook"></a>  
+<a class="socialicons" href="https://twitter.com/rubescartoons"><img src="images/twitter-logo-sml.gif"  alt="Twitter"></a>  
+<a  class="socialicons" href="https://www.linkedin.com/in/leigh-rubin-90a3607"><img src="images/linked-in.png" alt="linked in"></a>  
+<a class="socialicons" href="https://www.instagram.com/rubescartoons/"><img src="images/instagram-icon.png" alt="instagram"></a>
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+<a class="socialicons" data-pin-do="buttonBookmark" data-pin-color="red" data-pin-custom="true" href="https://www.pinterest.com/rubescartoons/"><img src="images/pinterest-pin-it-button2.png" alt="pinterest"></a> 

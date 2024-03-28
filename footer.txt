@@ -1,0 +1,38 @@
+<br>
+<hr><br>
+<div class="footerlinks center">
+<a href="/">Home</a> &nbsp; &nbsp; 
+<a href="book-leigh.html">Keynote Speaker</a> &nbsp; &nbsp;
+<a href="events.html">Events</a> &nbsp; &nbsp; 
+<a href="store.html">Store</a> &nbsp; &nbsp; 
+<a href="contact.html">Contact</a> &nbsp; &nbsp;
+</div>
+
+<div class="center">Please contact the editor of your local newspaper if you would like to see Rubes&#174; in your local paper.</div><br>
+
+<div class="center">
+<span style="font-size:14px;"><b><i>Rubes&#174; Cartoons</i></b></span><br>
+Copyright &copy; 2023 Leigh Rubin Cartoonist<br>
+All Rights Reserved<br>
+RUBES&#174; is a registered trademark of Leigh Rubin<br>
+<a href="https://www.loriswebs.com/" target="_blank" rel="nofollow"><span style="font-size:11px;">Lori's Web Design</span></a>
+</div>
+
+<div class="floatleft">
+<!-- Statcounter -->
+<script>
+var sc_project=8172502; 
+var sc_invisible=1; 
+var sc_security="f05ee1c6"; 
+</script>
+<script 
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="//c.statcounter.com/8172502/0/f05ee1c6/1/" alt="Web
+Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
+</div>
+

@@ -1,0 +1,2001 @@
+.
+|-- RubesCartoonsFileTree.txt
+|-- aaarc.css
+|-- about.html
+|-- book-leigh.html
+|-- book-of-moo.html
+|-- calendars.html
+|-- cancel.html
+|-- cartoon-gallery.html
+|-- cartoon-gallery2.html
+|-- cartoon-gallery3.html
+|-- cgi-bin
+|   |-- FormMail.pl
+|   |-- captcha.cgi
+|   |-- captchaforperl.tar
+|   |-- check-captcha.cgi.disabled
+|   |-- fm-check-captcha.cgi
+|   |-- form.cgi.disabled
+|   |-- images
+|   |   |-- 2DRT.gif
+|   |   |-- 2G2T.gif
+|   |   |-- 2GDO.gif
+|   |   |-- 2GPV.gif
+|   |   |-- 2J3K.gif
+|   |   |-- 2JIM.gif
+|   |   |-- 2JYT.gif
+|   |   |-- 2MJQ.gif
+|   |   |-- 2MJX.gif
+|   |   |-- 2MTJ.gif
+|   |   |-- 2OSK.gif
+|   |   |-- 2Q4V.gif
+|   |   |-- 2QKJ.gif
+|   |   |-- 2QQ4.gif
+|   |   |-- 2QSR.gif
+|   |   |-- 2R9R.gif
+|   |   |-- 2RJQ.gif
+|   |   |-- 2UIM.gif
+|   |   |-- 2UWU.gif
+|   |   |-- 2UXE.gif
+|   |   |-- 2V2V.gif
+|   |   |-- 2V3R.gif
+|   |   |-- 2VRJ.gif
+|   |   |-- 2WGT.gif
+|   |   |-- 2WKD.gif
+|   |   |-- 2WPW.gif
+|   |   |-- 2WUY.gif
+|   |   |-- 2XWT.gif
+|   |   |-- 2YIV.gif
+|   |   |-- 32KI.gif
+|   |   |-- 33O4.gif
+|   |   |-- 39ST.gif
+|   |   |-- 3DWR.gif
+|   |   |-- 3DYU.gif
+|   |   |-- 3EVH.gif
+|   |   |-- 3HEF.gif
+|   |   |-- 3J4X.gif
+|   |   |-- 3MVP.gif
+|   |   |-- 3OHK.gif
+|   |   |-- 3QUE.gif
+|   |   |-- 3RLN.gif
+|   |   |-- 3RR9.gif
+|   |   |-- 3SZJ.gif
+|   |   |-- 3USK.gif
+|   |   |-- 3VMS.gif
+|   |   |-- 3VXH.gif
+|   |   |-- 3YTP.gif
+|   |   |-- 42DQ.gif
+|   |   |-- 42YQ.gif
+|   |   |-- 43VW.gif
+|   |   |-- 49SI.gif
+|   |   |-- 4DVO.gif
+|   |   |-- 4FVL.gif
+|   |   |-- 4GTG.gif
+|   |   |-- 4H3L.gif
+|   |   |-- 4H4U.gif
+|   |   |-- 4HME.gif
+|   |   |-- 4IM3.gif
+|   |   |-- 4IZR.gif
+|   |   |-- 4K4U.gif
+|   |   |-- 4KFX.gif
+|   |   |-- 4LQV.gif
+|   |   |-- 4N93.gif
+|   |   |-- 4OOQ.gif
+|   |   |-- 4P9L.gif
+|   |   |-- 4PX2.gif
+|   |   |-- 4QJD.gif
+|   |   |-- 4SW2.gif
+|   |   |-- 4SYT.gif
+|   |   |-- 4UHV.gif
+|   |   |-- 4WHV.gif
+|   |   |-- 4WIU.gif
+|   |   |-- 4WMJ.gif
+|   |   |-- 4ZMY.gif
+|   |   |-- 4ZPR.gif
+|   |   |-- 9DIO.gif
+|   |   |-- 9GF4.gif
+|   |   |-- 9GFU.gif
+|   |   |-- 9GHD.gif
+|   |   |-- 9GMZ.gif
+|   |   |-- 9HED.gif
+|   |   |-- 9HJM.gif
+|   |   |-- 9HMS.gif
+|   |   |-- 9HOJ.gif
+|   |   |-- 9IVM.gif
+|   |   |-- 9JKU.gif
+|   |   |-- 9KP4.gif
+|   |   |-- 9OKV.gif
+|   |   |-- 9Q4G.gif
+|   |   |-- 9QTV.gif
+|   |   |-- 9QVR.gif
+|   |   |-- 9SZI.gif
+|   |   |-- 9TIF.gif
+|   |   |-- 9TKJ.gif
+|   |   |-- 9TRJ.gif
+|   |   |-- 9TVT.gif
+|   |   |-- 9U3Q.gif
+|   |   |-- 9VMD.gif
+|   |   |-- 9VMU.gif
+|   |   |-- 9VWL.gif
+|   |   |-- 9VXT.gif
+|   |   |-- 9WVD.gif
+|   |   |-- 9WXV.gif
+|   |   |-- 9XRQ.gif
+|   |   |-- 9YWV.gif
+|   |   |-- 9Z9M.gif
+|   |   |-- 9ZXU.gif
+|   |   |-- D3UW.gif
+|   |   |-- D4O9.gif
+|   |   |-- DII4.gif
+|   |   |-- DIRS.gif
+|   |   |-- DIWQ.gif
+|   |   |-- DJOD.gif
+|   |   |-- DKWX.gif
+|   |   |-- DMGM.gif
+|   |   |-- DMHL.gif
+|   |   |-- DMMN.gif
+|   |   |-- DMTQ.gif
+|   |   |-- DMWV.gif
+|   |   |-- DMX2.gif
+|   |   |-- DNQM.gif
+|   |   |-- DO2E.gif
+|   |   |-- DPFX.gif
+|   |   |-- DQF9.gif
+|   |   |-- DQGM.gif
+|   |   |-- DREM.gif
+|   |   |-- DT2M.gif
+|   |   |-- DTXI.gif
+|   |   |-- DUHL.gif
+|   |   |-- DUKF.gif
+|   |   |-- DVTS.gif
+|   |   |-- DWKE.gif
+|   |   |-- DWNI.gif
+|   |   |-- DYRI.gif
+|   |   |-- DZ4I.gif
+|   |   |-- E22P.gif
+|   |   |-- E2TZ.gif
+|   |   |-- E3SR.gif
+|   |   |-- E9FG.gif
+|   |   |-- EEQ4.gif
+|   |   |-- EGKW.gif
+|   |   |-- EGTG.gif
+|   |   |-- EHQK.gif
+|   |   |-- EIZM.gif
+|   |   |-- EJUY.gif
+|   |   |-- EQYZ.gif
+|   |   |-- ERQD.gif
+|   |   |-- ESK4.gif
+|   |   |-- ESST.gif
+|   |   |-- ETMR.gif
+|   |   |-- EU39.gif
+|   |   |-- EUNI.gif
+|   |   |-- EUOH.gif
+|   |   |-- EV2V.gif
+|   |   |-- EVUR.gif
+|   |   |-- EVXQ.gif
+|   |   |-- EWDK.gif
+|   |   |-- EXGJ.gif
+|   |   |-- EXID.gif
+|   |   |-- EXLV.gif
+|   |   |-- EXMR.gif
+|   |   |-- EYMN.gif
+|   |   |-- EYRU.gif
+|   |   |-- EZKS.gif
+|   |   |-- EZWX.gif
+|   |   |-- F23S.gif
+|   |   |-- F3MH.gif
+|   |   |-- F4VS.gif
+|   |   |-- F9TT.gif
+|   |   |-- F9XZ.gif
+|   |   |-- FDV9.gif
+|   |   |-- FESI.gif
+|   |   |-- FFMK.gif
+|   |   |-- FG2S.gif
+|   |   |-- FHKW.gif
+|   |   |-- FIOP.gif
+|   |   |-- FJ3M.gif
+|   |   |-- FJXQ.gif
+|   |   |-- FK3L.gif
+|   |   |-- FLWL.gif
+|   |   |-- FNES.gif
+|   |   |-- FPPX.gif
+|   |   |-- FQM3.gif
+|   |   |-- FQNO.gif
+|   |   |-- FQZT.gif
+|   |   |-- FS2X.gif
+|   |   |-- FSRM.gif
+|   |   |-- FUMT.gif
+|   |   |-- FUUI.gif
+|   |   |-- FVHY.gif
+|   |   |-- FVUX.gif
+|   |   |-- FXMD.gif
+|   |   |-- FXSV.gif
+|   |   |-- FXWT.gif
+|   |   |-- FY9S.gif
+|   |   |-- FYFP.gif
+|   |   |-- FYJS.gif
+|   |   |-- FZ2S.gif
+|   |   |-- FZSS.gif
+|   |   |-- G2SS.gif
+|   |   |-- GETR.gif
+|   |   |-- GEZK.gif
+|   |   |-- GFSL.gif
+|   |   |-- GIZL.gif
+|   |   |-- GKXJ.gif
+|   |   |-- GKXT.gif
+|   |   |-- GMEM.gif
+|   |   |-- GNOH.gif
+|   |   |-- GNUR.gif
+|   |   |-- GPX3.gif
+|   |   |-- GPXQ.gif
+|   |   |-- GQTX.gif
+|   |   |-- GQWD.gif
+|   |   |-- GRSJ.gif
+|   |   |-- GS2P.gif
+|   |   |-- GS4J.gif
+|   |   |-- GUD4.gif
+|   |   |-- GUQP.gif
+|   |   |-- GV4X.gif
+|   |   |-- GVRN.gif
+|   |   |-- GVVW.gif
+|   |   |-- GWYM.gif
+|   |   |-- H3JU.gif
+|   |   |-- H3KM.gif
+|   |   |-- H3MU.gif
+|   |   |-- H4F4.gif
+|   |   |-- H99J.gif
+|   |   |-- HDDU.gif
+|   |   |-- HDKJ.gif
+|   |   |-- HEWK.gif
+|   |   |-- HEWO.gif
+|   |   |-- HGJT.gif
+|   |   |-- HGVI.gif
+|   |   |-- HHHN.gif
+|   |   |-- HHJW.gif
+|   |   |-- HHOJ.gif
+|   |   |-- HHQJ.gif
+|   |   |-- HIEL.gif
+|   |   |-- HIOS.gif
+|   |   |-- HIUM.gif
+|   |   |-- HIYT.gif
+|   |   |-- HJZT.gif
+|   |   |-- HLSN.gif
+|   |   |-- HMVM.gif
+|   |   |-- HMVZ.gif
+|   |   |-- HMXS.gif
+|   |   |-- HNVI.gif
+|   |   |-- HOJM.gif
+|   |   |-- HPFF.gif
+|   |   |-- HPUS.gif
+|   |   |-- HPV9.gif
+|   |   |-- HQOJ.gif
+|   |   |-- HQUG.gif
+|   |   |-- HQVH.gif
+|   |   |-- HR4X.gif
+|   |   |-- HREM.gif
+|   |   |-- HSJ3.gif
+|   |   |-- HTGW.gif
+|   |   |-- HTHE.gif
+|   |   |-- HTNQ.gif
+|   |   |-- HTPI.gif
+|   |   |-- HTU3.gif
+|   |   |-- HURN.gif
+|   |   |-- HV2O.gif
+|   |   |-- HV9W.gif
+|   |   |-- HVTN.gif
+|   |   |-- HWSM.gif
+|   |   |-- HXF3.gif
+|   |   |-- HXJV.gif
+|   |   |-- HYUO.gif
+|   |   |-- HYVU.gif
+|   |   |-- HZ9H.gif
+|   |   |-- HZV3.gif
+|   |   |-- I4GH.gif
+|   |   |-- I9IS.gif
+|   |   |-- I9UM.gif
+|   |   |-- IDGE.gif
+|   |   |-- IDHU.gif
+|   |   |-- IE23.gif
+|   |   |-- IGEN.gif
+|   |   |-- IHVQ.gif
+|   |   |-- IJ9P.gif
+|   |   |-- IJHS.gif
+|   |   |-- IJHW.gif
+|   |   |-- IKEN.gif
+|   |   |-- IKIT.gif
+|   |   |-- IKRO.gif
+|   |   |-- IL3X.gif
+|   |   |-- ILMM.gif
+|   |   |-- IMRM.gif
+|   |   |-- IMTV.gif
+|   |   |-- IMXS.gif
+|   |   |-- IOJF.gif
+|   |   |-- IOWY.gif
+|   |   |-- IP4Q.gif
+|   |   |-- IPH9.gif
+|   |   |-- IQMV.gif
+|   |   |-- IQW2.gif
+|   |   |-- IRDM.gif
+|   |   |-- IROY.gif
+|   |   |-- IRSG.gif
+|   |   |-- IRVX.gif
+|   |   |-- IS2T.gif
+|   |   |-- ISIH.gif
+|   |   |-- ISSG.gif
+|   |   |-- ISWW.gif
+|   |   |-- ITJX.gif
+|   |   |-- ITQO.gif
+|   |   |-- IUTV.gif
+|   |   |-- IVKI.gif
+|   |   |-- IW4V.gif
+|   |   |-- IWW3.gif
+|   |   |-- IXH9.gif
+|   |   |-- IXIE.gif
+|   |   |-- IXJN.gif
+|   |   |-- IXRQ.gif
+|   |   |-- IXX2.gif
+|   |   |-- IY9P.gif
+|   |   |-- IYWO.gif
+|   |   |-- IZSM.gif
+|   |   |-- IZWE.gif
+|   |   |-- J3ND.gif
+|   |   |-- J9IX.gif
+|   |   |-- J9MT.gif
+|   |   |-- J9SI.gif
+|   |   |-- JERS.gif
+|   |   |-- JGGQ.gif
+|   |   |-- JHMH.gif
+|   |   |-- JHVS.gif
+|   |   |-- JHYY.gif
+|   |   |-- JI3M.gif
+|   |   |-- JITF.gif
+|   |   |-- JKME.gif
+|   |   |-- JMET.gif
+|   |   |-- JMEU.gif
+|   |   |-- JOZP.gif
+|   |   |-- JP43.gif
+|   |   |-- JPT9.gif
+|   |   |-- JQJW.gif
+|   |   |-- JQUH.gif
+|   |   |-- JQUL.gif
+|   |   |-- JRHD.gif
+|   |   |-- JRYU.gif
+|   |   |-- JSQQ.gif
+|   |   |-- JSVX.gif
+|   |   |-- JSWK.gif
+|   |   |-- JTRZ.gif
+|   |   |-- JTVT.gif
+|   |   |-- JTWD.gif
+|   |   |-- JU2X.gif
+|   |   |-- JUIR.gif
+|   |   |-- JUJN.gif
+|   |   |-- JUNL.gif
+|   |   |-- JUW2.gif
+|   |   |-- JVIW.gif
+|   |   |-- JXXD.gif
+|   |   |-- JY2O.gif
+|   |   |-- JYYJ.gif
+|   |   |-- JYZM.gif
+|   |   |-- JZYT.gif
+|   |   |-- K2EV.gif
+|   |   |-- K2S2.gif
+|   |   |-- K9IH.gif
+|   |   |-- K9UH.gif
+|   |   |-- KG3L.gif
+|   |   |-- KHM4.gif
+|   |   |-- KHWW.gif
+|   |   |-- KIFH.gif
+|   |   |-- KJ9T.gif
+|   |   |-- KJLJ.gif
+|   |   |-- KMMQ.gif
+|   |   |-- KNVN.gif
+|   |   |-- KNXV.gif
+|   |   |-- KPTV.gif
+|   |   |-- KPVG.gif
+|   |   |-- KTDY.gif
+|   |   |-- KTHX.gif
+|   |   |-- KTTQ.gif
+|   |   |-- KV4M.gif
+|   |   |-- KVLS.gif
+|   |   |-- KVYQ.gif
+|   |   |-- KWHI.gif
+|   |   |-- KWQI.gif
+|   |   |-- KWTJ.gif
+|   |   |-- KWVJ.gif
+|   |   |-- KX9Q.gif
+|   |   |-- KYWF.gif
+|   |   |-- KZS9.gif
+|   |   |-- L2WK.gif
+|   |   |-- LHXH.gif
+|   |   |-- LI3T.gif
+|   |   |-- LIK9.gif
+|   |   |-- LKMD.gif
+|   |   |-- LLP4.gif
+|   |   |-- LM2F.gif
+|   |   |-- LNRF.gif
+|   |   |-- LPHW.gif
+|   |   |-- LQQG.gif
+|   |   |-- LR4I.gif
+|   |   |-- LRFS.gif
+|   |   |-- LT4P.gif
+|   |   |-- LTH3.gif
+|   |   |-- LTN9.gif
+|   |   |-- LTRT.gif
+|   |   |-- LTVT.gif
+|   |   |-- LUNT.gif
+|   |   |-- LWLL.gif
+|   |   |-- LWQR.gif
+|   |   |-- LXIQ.gif
+|   |   |-- LXWX.gif
+|   |   |-- LYVP.gif
+|   |   |-- M3EW.gif
+|   |   |-- M3JQ.gif
+|   |   |-- MEXZ.gif
+|   |   |-- MHFF.gif
+|   |   |-- MHJD.gif
+|   |   |-- MHV4.gif
+|   |   |-- MIKN.gif
+|   |   |-- MIPR.gif
+|   |   |-- MJFV.gif
+|   |   |-- MJTJ.gif
+|   |   |-- MJZU.gif
+|   |   |-- MKKU.gif
+|   |   |-- MM4T.gif
+|   |   |-- MMHY.gif
+|   |   |-- MNMQ.gif
+|   |   |-- MNSZ.gif
+|   |   |-- MNY9.gif
+|   |   |-- MOFP.gif
+|   |   |-- MPFJ.gif
+|   |   |-- MQMQ.gif
+|   |   |-- MQYT.gif
+|   |   |-- MRJZ.gif
+|   |   |-- MRYH.gif
+|   |   |-- MSUV.gif
+|   |   |-- MSVV.gif
+|   |   |-- MSZK.gif
+|   |   |-- MTNU.gif
+|   |   |-- MTRV.gif
+|   |   |-- MUEW.gif
+|   |   |-- MUFT.gif
+|   |   |-- MVLH.gif
+|   |   |-- MVRW.gif
+|   |   |-- MVVR.gif
+|   |   |-- MWEH.gif
+|   |   |-- MWIJ.gif
+|   |   |-- MXIT.gif
+|   |   |-- MXMJ.gif
+|   |   |-- MXMQ.gif
+|   |   |-- MXPL.gif
+|   |   |-- MYVZ.gif
+|   |   |-- MYWO.gif
+|   |   |-- MYXQ.gif
+|   |   |-- MZSX.gif
+|   |   |-- MZWY.gif
+|   |   |-- N4GV.gif
+|   |   |-- N4MV.gif
+|   |   |-- N4QR.gif
+|   |   |-- NEZS.gif
+|   |   |-- NH2X.gif
+|   |   |-- NHFW.gif
+|   |   |-- NK2S.gif
+|   |   |-- NOOF.gif
+|   |   |-- NOWW.gif
+|   |   |-- NP3W.gif
+|   |   |-- NPUM.gif
+|   |   |-- NSDH.gif
+|   |   |-- NSHL.gif
+|   |   |-- NTTJ.gif
+|   |   |-- NVUK.gif
+|   |   |-- NWSS.gif
+|   |   |-- NWVM.gif
+|   |   |-- NWWY.gif
+|   |   |-- NXW2.gif
+|   |   |-- NZDV.gif
+|   |   |-- NZVI.gif
+|   |   |-- O2MU.gif
+|   |   |-- O4ZS.gif
+|   |   |-- OED4.gif
+|   |   |-- OFUR.gif
+|   |   |-- OHET.gif
+|   |   |-- OITR.gif
+|   |   |-- OIWM.gif
+|   |   |-- OIYX.gif
+|   |   |-- OJHR.gif
+|   |   |-- OJN4.gif
+|   |   |-- OKDM.gif
+|   |   |-- OL92.gif
+|   |   |-- OLYX.gif
+|   |   |-- OMXX.gif
+|   |   |-- OO3H.gif
+|   |   |-- OOTE.gif
+|   |   |-- OOXJ.gif
+|   |   |-- OPUI.gif
+|   |   |-- OQ4M.gif
+|   |   |-- OQIE.gif
+|   |   |-- OQS3.gif
+|   |   |-- ORTQ.gif
+|   |   |-- ORXI.gif
+|   |   |-- OSDS.gif
+|   |   |-- OSMI.gif
+|   |   |-- OTJL.gif
+|   |   |-- OTNQ.gif
+|   |   |-- OTRN.gif
+|   |   |-- OUHO.gif
+|   |   |-- OXVJ.gif
+|   |   |-- OXZQ.gif
+|   |   |-- P3RS.gif
+|   |   |-- P4OW.gif
+|   |   |-- P9TM.gif
+|   |   |-- PEEU.gif
+|   |   |-- PG2I.gif
+|   |   |-- PIST.gif
+|   |   |-- PIWI.gif
+|   |   |-- PJTJ.gif
+|   |   |-- PMML.gif
+|   |   |-- PSHG.gif
+|   |   |-- PTXO.gif
+|   |   |-- PUQ4.gif
+|   |   |-- PVUS.gif
+|   |   |-- PVXW.gif
+|   |   |-- PWPV.gif
+|   |   |-- PWW9.gif
+|   |   |-- PYQM.gif
+|   |   |-- PYWV.gif
+|   |   |-- Q43D.gif
+|   |   |-- Q43J.gif
+|   |   |-- Q4HV.gif
+|   |   |-- Q4IX.gif
+|   |   |-- Q4MI.gif
+|   |   |-- Q9II.gif
+|   |   |-- Q9OW.gif
+|   |   |-- Q9VJ.gif
+|   |   |-- QD9K.gif
+|   |   |-- QEWV.gif
+|   |   |-- QGIJ.gif
+|   |   |-- QGWU.gif
+|   |   |-- QH3W.gif
+|   |   |-- QHJE.gif
+|   |   |-- QHL2.gif
+|   |   |-- QHXH.gif
+|   |   |-- QIEK.gif
+|   |   |-- QIJE.gif
+|   |   |-- QINH.gif
+|   |   |-- QISX.gif
+|   |   |-- QIYI.gif
+|   |   |-- QJ4F.gif
+|   |   |-- QJHU.gif
+|   |   |-- QJJV.gif
+|   |   |-- QJRT.gif
+|   |   |-- QJXN.gif
+|   |   |-- QKIQ.gif
+|   |   |-- QKYG.gif
+|   |   |-- QLHM.gif
+|   |   |-- QLUM.gif
+|   |   |-- QM3T.gif
+|   |   |-- QMTS.gif
+|   |   |-- QNJQ.gif
+|   |   |-- QOJ9.gif
+|   |   |-- QOSV.gif
+|   |   |-- QOTT.gif
+|   |   |-- QQPD.gif
+|   |   |-- QQRS.gif
+|   |   |-- QRMO.gif
+|   |   |-- QRNM.gif
+|   |   |-- QRQF.gif
+|   |   |-- QRTT.gif
+|   |   |-- QSGV.gif
+|   |   |-- QSJE.gif
+|   |   |-- QSJN.gif
+|   |   |-- QSSL.gif
+|   |   |-- QSWS.gif
+|   |   |-- QTKU.gif
+|   |   |-- QUGW.gif
+|   |   |-- QUR3.gif
+|   |   |-- QUTX.gif
+|   |   |-- QUVM.gif
+|   |   |-- QWHH.gif
+|   |   |-- QWJQ.gif
+|   |   |-- QXSI.gif
+|   |   |-- QYF4.gif
+|   |   |-- QYRW.gif
+|   |   |-- QZGV.gif
+|   |   |-- R3R9.gif
+|   |   |-- RDNV.gif
+|   |   |-- RDPI.gif
+|   |   |-- RDT4.gif
+|   |   |-- REIU.gif
+|   |   |-- RFQW.gif
+|   |   |-- RFYX.gif
+|   |   |-- RFZM.gif
+|   |   |-- RGFI.gif
+|   |   |-- RHDU.gif
+|   |   |-- RHTD.gif
+|   |   |-- RHVK.gif
+|   |   |-- RIHT.gif
+|   |   |-- RIJM.gif
+|   |   |-- RIJZ.gif
+|   |   |-- RIQZ.gif
+|   |   |-- RISM.gif
+|   |   |-- RIVD.gif
+|   |   |-- RJLX.gif
+|   |   |-- RJMS.gif
+|   |   |-- RJPZ.gif
+|   |   |-- RJVR.gif
+|   |   |-- RJXS.gif
+|   |   |-- RKPO.gif
+|   |   |-- RLDS.gif
+|   |   |-- RM2R.gif
+|   |   |-- RMFD.gif
+|   |   |-- RMOV.gif
+|   |   |-- RNHV.gif
+|   |   |-- RNIX.gif
+|   |   |-- RP9W.gif
+|   |   |-- RPVK.gif
+|   |   |-- RPZN.gif
+|   |   |-- RQ3V.gif
+|   |   |-- RQTV.gif
+|   |   |-- RQWP.gif
+|   |   |-- RRTE.gif
+|   |   |-- RRXQ.gif
+|   |   |-- RSJU.gif
+|   |   |-- RTJ9.gif
+|   |   |-- RTQH.gif
+|   |   |-- RTSM.gif
+|   |   |-- RTWK.gif
+|   |   |-- RUFW.gif
+|   |   |-- RUXW.gif
+|   |   |-- RUYP.gif
+|   |   |-- RV3E.gif
+|   |   |-- RVPI.gif
+|   |   |-- RVUT.gif
+|   |   |-- RWMW.gif
+|   |   |-- RWUO.gif
+|   |   |-- RWVW.gif
+|   |   |-- RXIN.gif
+|   |   |-- RY2M.gif
+|   |   |-- RZ2J.gif
+|   |   |-- RZ3V.gif
+|   |   |-- S2ZZ.gif
+|   |   |-- S3YL.gif
+|   |   |-- S49J.gif
+|   |   |-- S4HG.gif
+|   |   |-- S9VI.gif
+|   |   |-- SDFJ.gif
+|   |   |-- SDGT.gif
+|   |   |-- SERU.gif
+|   |   |-- SFET.gif
+|   |   |-- SFMN.gif
+|   |   |-- SGJQ.gif
+|   |   |-- SGQ4.gif
+|   |   |-- SHMV.gif
+|   |   |-- SHRI.gif
+|   |   |-- SHWQ.gif
+|   |   |-- SIRJ.gif
+|   |   |-- SIRT.gif
+|   |   |-- SJHP.gif
+|   |   |-- SJLG.gif
+|   |   |-- SJQM.gif
+|   |   |-- SJUV.gif
+|   |   |-- SJXJ.gif
+|   |   |-- SLNU.gif
+|   |   |-- SMI9.gif
+|   |   |-- SOSJ.gif
+|   |   |-- SQHJ.gif
+|   |   |-- SQQM.gif
+|   |   |-- SQUH.gif
+|   |   |-- SQUM.gif
+|   |   |-- SRDX.gif
+|   |   |-- SRMR.gif
+|   |   |-- SRQJ.gif
+|   |   |-- SSQ2.gif
+|   |   |-- SSWY.gif
+|   |   |-- SUXO.gif
+|   |   |-- SV4V.gif
+|   |   |-- SVDQ.gif
+|   |   |-- SVWL.gif
+|   |   |-- SVWT.gif
+|   |   |-- SWIJ.gif
+|   |   |-- SWZD.gif
+|   |   |-- SXTR.gif
+|   |   |-- T4PW.gif
+|   |   |-- TD4X.gif
+|   |   |-- TDSM.gif
+|   |   |-- TEGV.gif
+|   |   |-- TFFX.gif
+|   |   |-- THF2.gif
+|   |   |-- TIIH.gif
+|   |   |-- TIL3.gif
+|   |   |-- TIUR.gif
+|   |   |-- TJFV.gif
+|   |   |-- TJRH.gif
+|   |   |-- TL4V.gif
+|   |   |-- TMLD.gif
+|   |   |-- TMXT.gif
+|   |   |-- TMZT.gif
+|   |   |-- TNHS.gif
+|   |   |-- TNRM.gif
+|   |   |-- TOMJ.gif
+|   |   |-- TP9V.gif
+|   |   |-- TPHU.gif
+|   |   |-- TQHO.gif
+|   |   |-- TQSZ.gif
+|   |   |-- TQXM.gif
+|   |   |-- TRTJ.gif
+|   |   |-- TRXT.gif
+|   |   |-- TSJW.gif
+|   |   |-- TSNZ.gif
+|   |   |-- TSQT.gif
+|   |   |-- TTHW.gif
+|   |   |-- TTSI.gif
+|   |   |-- TUG2.gif
+|   |   |-- TUS3.gif
+|   |   |-- TVOM.gif
+|   |   |-- TVXD.gif
+|   |   |-- TW4Z.gif
+|   |   |-- TWSJ.gif
+|   |   |-- TWVO.gif
+|   |   |-- TWWR.gif
+|   |   |-- TXQF.gif
+|   |   |-- TXVW.gif
+|   |   |-- TYSS.gif
+|   |   |-- U3TX.gif
+|   |   |-- U3Y2.gif
+|   |   |-- U4OR.gif
+|   |   |-- UD4D.gif
+|   |   |-- UEFX.gif
+|   |   |-- UELR.gif
+|   |   |-- UEMY.gif
+|   |   |-- UEZS.gif
+|   |   |-- UF39.gif
+|   |   |-- UFS4.gif
+|   |   |-- UHOY.gif
+|   |   |-- UHU4.gif
+|   |   |-- UI9V.gif
+|   |   |-- UIEI.gif
+|   |   |-- UIM4.gif
+|   |   |-- UIRH.gif
+|   |   |-- UISF.gif
+|   |   |-- UIUL.gif
+|   |   |-- UJEJ.gif
+|   |   |-- UJJR.gif
+|   |   |-- UJOI.gif
+|   |   |-- UKEM.gif
+|   |   |-- UL93.gif
+|   |   |-- ULD2.gif
+|   |   |-- ULIP.gif
+|   |   |-- ULOX.gif
+|   |   |-- ULPQ.gif
+|   |   |-- ULS3.gif
+|   |   |-- UM44.gif
+|   |   |-- UMSR.gif
+|   |   |-- UNQL.gif
+|   |   |-- UNRE.gif
+|   |   |-- UNWI.gif
+|   |   |-- UPOU.gif
+|   |   |-- UQDX.gif
+|   |   |-- UQHE.gif
+|   |   |-- UQSL.gif
+|   |   |-- US3E.gif
+|   |   |-- USTI.gif
+|   |   |-- UTZV.gif
+|   |   |-- UU22.gif
+|   |   |-- UUQQ.gif
+|   |   |-- UUWT.gif
+|   |   |-- UVDQ.gif
+|   |   |-- UVJU.gif
+|   |   |-- UVLT.gif
+|   |   |-- UVLW.gif
+|   |   |-- UVQ9.gif
+|   |   |-- UVTU.gif
+|   |   |-- UVXY.gif
+|   |   |-- UWLM.gif
+|   |   |-- UWMF.gif
+|   |   |-- UWMU.gif
+|   |   |-- UWNU.gif
+|   |   |-- UXMM.gif
+|   |   |-- UYQN.gif
+|   |   |-- UYTI.gif
+|   |   |-- UZTI.gif
+|   |   |-- V2RT.gif
+|   |   |-- V3TQ.gif
+|   |   |-- V4GP.gif
+|   |   |-- VDJX.gif
+|   |   |-- VFNV.gif
+|   |   |-- VFXS.gif
+|   |   |-- VGRX.gif
+|   |   |-- VHHV.gif
+|   |   |-- VHRM.gif
+|   |   |-- VIDT.gif
+|   |   |-- VIK4.gif
+|   |   |-- VJ2R.gif
+|   |   |-- VJGS.gif
+|   |   |-- VJVR.gif
+|   |   |-- VMGM.gif
+|   |   |-- VMRV.gif
+|   |   |-- VMX4.gif
+|   |   |-- VMYS.gif
+|   |   |-- VNNM.gif
+|   |   |-- VNTK.gif
+|   |   |-- VOSS.gif
+|   |   |-- VQEQ.gif
+|   |   |-- VQQG.gif
+|   |   |-- VQVS.gif
+|   |   |-- VRHX.gif
+|   |   |-- VRJK.gif
+|   |   |-- VRLT.gif
+|   |   |-- VRVK.gif
+|   |   |-- VSKM.gif
+|   |   |-- VSWR.gif
+|   |   |-- VTKY.gif
+|   |   |-- VTQL.gif
+|   |   |-- VTRR.gif
+|   |   |-- VU4U.gif
+|   |   |-- VUIE.gif
+|   |   |-- VUNG.gif
+|   |   |-- VUSM.gif
+|   |   |-- VVHG.gif
+|   |   |-- VWDW.gif
+|   |   |-- VWO3.gif
+|   |   |-- VWTM.gif
+|   |   |-- VWTZ.gif
+|   |   |-- VWVX.gif
+|   |   |-- VX9X.gif
+|   |   |-- VXM4.gif
+|   |   |-- VXMM.gif
+|   |   |-- VXVU.gif
+|   |   |-- VYMD.gif
+|   |   |-- VYSS.gif
+|   |   |-- VYZD.gif
+|   |   |-- W9IQ.gif
+|   |   |-- W9QN.gif
+|   |   |-- WDH4.gif
+|   |   |-- WDJH.gif
+|   |   |-- WDOY.gif
+|   |   |-- WEIZ.gif
+|   |   |-- WFOV.gif
+|   |   |-- WH24.gif
+|   |   |-- WH4J.gif
+|   |   |-- WHGS.gif
+|   |   |-- WHIY.gif
+|   |   |-- WHTR.gif
+|   |   |-- WIFN.gif
+|   |   |-- WJ2J.gif
+|   |   |-- WJFS.gif
+|   |   |-- WJSJ.gif
+|   |   |-- WKJT.gif
+|   |   |-- WLLE.gif
+|   |   |-- WLOU.gif
+|   |   |-- WMOM.gif
+|   |   |-- WMWX.gif
+|   |   |-- WNHR.gif
+|   |   |-- WNS2.gif
+|   |   |-- WOPX.gif
+|   |   |-- WP2W.gif
+|   |   |-- WPH3.gif
+|   |   |-- WPOT.gif
+|   |   |-- WQ4R.gif
+|   |   |-- WQJH.gif
+|   |   |-- WQKU.gif
+|   |   |-- WQMN.gif
+|   |   |-- WRSI.gif
+|   |   |-- WS9E.gif
+|   |   |-- WSFX.gif
+|   |   |-- WSSS.gif
+|   |   |-- WSST.gif
+|   |   |-- WSVS.gif
+|   |   |-- WT2V.gif
+|   |   |-- WTIU.gif
+|   |   |-- WTJJ.gif
+|   |   |-- WTVR.gif
+|   |   |-- WUEM.gif
+|   |   |-- WUVI.gif
+|   |   |-- WVD4.gif
+|   |   |-- WWDQ.gif
+|   |   |-- WWJN.gif
+|   |   |-- WWT3.gif
+|   |   |-- WWWZ.gif
+|   |   |-- WX4L.gif
+|   |   |-- WXVZ.gif
+|   |   |-- WXXR.gif
+|   |   |-- WXXT.gif
+|   |   |-- WZ3M.gif
+|   |   |-- WZOZ.gif
+|   |   |-- X2TI.gif
+|   |   |-- X3ZQ.gif
+|   |   |-- X44J.gif
+|   |   |-- X4IW.gif
+|   |   |-- X9FR.gif
+|   |   |-- X9P4.gif
+|   |   |-- X9XX.gif
+|   |   |-- XDVU.gif
+|   |   |-- XEMG.gif
+|   |   |-- XEO2.gif
+|   |   |-- XF22.gif
+|   |   |-- XFF2.gif
+|   |   |-- XFWR.gif
+|   |   |-- XGHS.gif
+|   |   |-- XHRK.gif
+|   |   |-- XHSE.gif
+|   |   |-- XHTV.gif
+|   |   |-- XIQH.gif
+|   |   |-- XJ9U.gif
+|   |   |-- XJFD.gif
+|   |   |-- XJRM.gif
+|   |   |-- XJS2.gif
+|   |   |-- XLHI.gif
+|   |   |-- XLIW.gif
+|   |   |-- XLZI.gif
+|   |   |-- XMI9.gif
+|   |   |-- XNHR.gif
+|   |   |-- XNWZ.gif
+|   |   |-- XNYQ.gif
+|   |   |-- XOMQ.gif
+|   |   |-- XP2K.gif
+|   |   |-- XP2S.gif
+|   |   |-- XQRO.gif
+|   |   |-- XQST.gif
+|   |   |-- XQVU.gif
+|   |   |-- XRUX.gif
+|   |   |-- XS2N.gif
+|   |   |-- XS4I.gif
+|   |   |-- XSR4.gif
+|   |   |-- XSY2.gif
+|   |   |-- XTGR.gif
+|   |   |-- XTLS.gif
+|   |   |-- XUDI.gif
+|   |   |-- XUGG.gif
+|   |   |-- XUGI.gif
+|   |   |-- XVE3.gif
+|   |   |-- XVIK.gif
+|   |   |-- XVSE.gif
+|   |   |-- XWHQ.gif
+|   |   |-- XWMV.gif
+|   |   |-- XX3I.gif
+|   |   |-- XXQN.gif
+|   |   |-- Y2VW.gif
+|   |   |-- YFF3.gif
+|   |   |-- YGHJ.gif
+|   |   |-- YGM4.gif
+|   |   |-- YGSU.gif
+|   |   |-- YJHV.gif
+|   |   |-- YJIX.gif
+|   |   |-- YJLM.gif
+|   |   |-- YJPL.gif
+|   |   |-- YJXJ.gif
+|   |   |-- YMHI.gif
+|   |   |-- YMV9.gif
+|   |   |-- YOHQ.gif
+|   |   |-- YOVV.gif
+|   |   |-- YQRU.gif
+|   |   |-- YSIH.gif
+|   |   |-- YSRQ.gif
+|   |   |-- YSTW.gif
+|   |   |-- YT9V.gif
+|   |   |-- YTU9.gif
+|   |   |-- YUSS.gif
+|   |   |-- YVSV.gif
+|   |   |-- YVWH.gif
+|   |   |-- YWP9.gif
+|   |   |-- YWUR.gif
+|   |   |-- YWVG.gif
+|   |   |-- YZ2P.gif
+|   |   |-- YZHR.gif
+|   |   |-- YZQT.gif
+|   |   |-- Z2WI.gif
+|   |   |-- Z32K.gif
+|   |   |-- Z3DQ.gif
+|   |   |-- Z49F.gif
+|   |   |-- ZDVF.gif
+|   |   |-- ZESX.gif
+|   |   |-- ZFJ4.gif
+|   |   |-- ZFJV.gif
+|   |   |-- ZFYH.gif
+|   |   |-- ZIN4.gif
+|   |   |-- ZITO.gif
+|   |   |-- ZIVR.gif
+|   |   |-- ZJMV.gif
+|   |   |-- ZKYQ.gif
+|   |   |-- ZM3G.gif
+|   |   |-- ZMKR.gif
+|   |   |-- ZMTX.gif
+|   |   |-- ZNHO.gif
+|   |   |-- ZNTN.gif
+|   |   |-- ZO2K.gif
+|   |   |-- ZOJH.gif
+|   |   |-- ZONU.gif
+|   |   |-- ZPFM.gif
+|   |   |-- ZPJE.gif
+|   |   |-- ZPY9.gif
+|   |   |-- ZQHW.gif
+|   |   |-- ZQRE.gif
+|   |   |-- ZTRU.gif
+|   |   |-- ZTSI.gif
+|   |   |-- ZVTS.gif
+|   |   |-- ZWU3.gif
+|   |   |-- ZXQV.gif
+|   |   |-- ZYMV.gif
+|   |   `-- ZZMO.gif
+|   |-- installing.html
+|   `-- temp
+|-- contact.html
+|-- cow-guitar.html
+|-- cow-parade.html
+|-- e-cards.html
+|-- events.html
+|-- events.html.BAK-JJ-2024-02-11
+|-- footer.txt
+|-- gifts-and-decor.html
+|-- google4813997a075d1888.html
+|-- greeting-cards.html
+|-- headergallery.txt
+|-- images
+|   |-- 2-bunnies-tbn.jpg
+|   |-- 2012-wall-calendar.jpg
+|   |-- 2012-zoo-box-calendar.jpg
+|   |-- 2013-zoo-box-calendar.jpg
+|   |-- 2014-zoo-box-calendar.gif
+|   |-- 3-cow-pics200.png
+|   |-- 3bees-adv.jpg
+|   |-- 3bees-adv.png
+|   |-- 50-shades-for-dc-tbn.jpg
+|   |-- 5rubes-prints1.gif
+|   |-- 5rubes-prints1.png
+|   |-- 5rubes-prints1b-min.png
+|   |-- 5rubes-prints1b.gif
+|   |-- 5rubes-prints1b.png
+|   |-- Backyard\ Palm\ Tree\ Cow.jpg
+|   |-- Rubes-calendar1.gif
+|   |-- ad-when-worlds-collide-10-25-17.gif
+|   |-- adventure-cow-polar-bear-dip.jpg
+|   |-- age-reversing-formula1.gif
+|   |-- age-reversing-formula1b.gif
+|   |-- albany-oregon1.jpg
+|   |-- albany-oregon1b.jpg
+|   |-- americanbeautycats1.jpg
+|   |-- americanbeautycats1b.jpg
+|   |-- americanbeautyrubes1.jpg
+|   |-- americanbeautyrubes1b.jpg
+|   |-- app-store1.gif
+|   |-- artrepreneur-workshop.png
+|   |-- attract-women1.gif
+|   |-- attract-women1b.gif
+|   |-- baloney.gif
+|   |-- baskin-robins2.gif
+|   |-- baskin-robins2b.gif
+|   |-- bear-trap1.gif
+|   |-- bear-trap1b.gif
+|   |-- bear-with-guitar-tbn.jpg
+|   |-- bells-whistles1.gif
+|   |-- bells-whistles1b.gif
+|   |-- big-A-ranch1.gif
+|   |-- big-A-ranch1_tbn.gif
+|   |-- bigger-bug-jar1.gif
+|   |-- bigger-bug-jar1b.gif
+|   |-- blogimg.jpg
+|   |-- book-of-moo-img330.jpg
+|   |-- book-of-moo-img500.jpg
+|   |-- book-of-moo-og.jpg
+|   |-- book-thenandnow1b.jpg
+|   |-- book-wildlifefarmanimals1b.jpg
+|   |-- book-wildlifeofcats1b.jpg
+|   |-- book-wildlifeofcows1b.jpg
+|   |-- book-wildlifeofdogs1b.jpg
+|   |-- book-wildlifeoffarmanimals1b.jpg
+|   |-- book-wildlifeoflove1b.jpg
+|   |-- book-wildlifeofpets1b.jpg
+|   |-- botannical-signs-childrens-garden.jpg
+|   |-- bountiful-life.jpg
+|   |-- boxcalendar.jpg
+|   |-- boxcalendar2010.jpg
+|   |-- brain-freeze-1.gif
+|   |-- brain-freeze-1b.gif
+|   |-- brickcityland-shop1b.png
+|   |-- bright-day-wall-calendars-2021.jpg
+|   |-- bubble-add-cart.png
+|   |-- buckskin1.gif
+|   |-- buckskin1b.gif
+|   |-- buffalo-roam1.gif
+|   |-- buffalo-roam1b.gif
+|   |-- bug-lost-head1.gif
+|   |-- bug-lost-head1b.gif
+|   |-- bunny.jpg
+|   |-- button-about3.gif
+|   |-- button-book-of-moo2.gif
+|   |-- button-bookleigh3.gif
+|   |-- button-contact3.gif
+|   |-- button-ecards3.gif
+|   |-- button-events3.gif
+|   |-- button-gallery2.gif
+|   |-- button-gallery3.gif
+|   |-- button-home3.gif
+|   |-- button-news3.gif
+|   |-- button-prints3.gif
+|   |-- button-references3.gif
+|   |-- button-store3.gif
+|   |-- button-tv-film3.gif
+|   |-- button-tv-film3.png
+|   |-- buy-book-of-moo-icon2.png
+|   |-- buy-book-of-moo-icon375.jpg
+|   |-- buy-book-of-moo-icon375.png
+|   |-- calendar-schema-og.jpg
+|   |-- calendar-zooinabox1b.gif
+|   |-- calif-assessors-assoc1.jpg
+|   |-- calif-assessors-assoc1b.jpg
+|   |-- camarillo-library-promo.jpg
+|   |-- camarillo-library-promo1.jpg
+|   |-- card-brown-nosed-reindeer.jpg
+|   |-- card-doghouse-birthday.jpg
+|   |-- card-easter-outfits.jpg
+|   |-- card-ethanol.jpg
+|   |-- card-freshen-up-your-drink.jpg
+|   |-- card-narcissim-treatment-center.jpg
+|   |-- card-natural-resources.jpg
+|   |-- card-reindeer-xmas.jpg
+|   |-- card-three-wishes-birthday.jpg
+|   |-- caret.png
+|   |-- cartoonists-local-mashup.jpg
+|   |-- cartoony-leigh1b.gif
+|   |-- cartoony-leigh1c.gif
+|   |-- ccbf-authorbadge1b.png
+|   |-- charlie-kite1.gif
+|   |-- charlie-kite1b.gif
+|   |-- chicken-feathers1.gif
+|   |-- chicken-feathers1b.gif
+|   |-- clarence-walrus-tbn.jpg
+|   |-- clarence-walrus-tbn.png
+|   |-- cloud-rain1.gif
+|   |-- cloud-rain1b.gif
+|   |-- clown-holdup1.gif
+|   |-- clown-holdup1b.gif
+|   |-- clown-nightmare1.gif
+|   |-- clown-nightmare1b.gif
+|   |-- columbia-speaking1.jpg
+|   |-- columbia-speaking1b.jpg
+|   |-- combo-from-rit-1.jpg
+|   |-- coming-up-roses1.jpg
+|   |-- cooking-for-pets-fair.jpg
+|   |-- copernicus-cats1.jpg
+|   |-- copernicus-cats1b.jpg
+|   |-- corvallis-oregon1.jpg
+|   |-- corvallis-oregon1b.jpg
+|   |-- cosmic-cow-capsizes.jpg
+|   |-- count-backwards1.gif
+|   |-- count-backwards1b.gif
+|   |-- country-today2016.jpg
+|   |-- country-today2016b.jpg
+|   |-- cow-for-cow-parade1.jpg
+|   |-- cow-guitar-back1.jpg
+|   |-- cow-guitar-back1b.jpg
+|   |-- cow-guitar-back2.jpg
+|   |-- cow-guitar-bottom1.jpg
+|   |-- cow-guitar-bottom1b.jpg
+|   |-- cow-guitar-front-bottom1.jpg
+|   |-- cow-guitar-front-bottom1b.jpg
+|   |-- cow-guitar-front1.jpg
+|   |-- cow-guitar-front1b.jpg
+|   |-- cow-guitar-headstock1.jpg
+|   |-- cow-guitar-headstock1b.jpg
+|   |-- cow-guitar-studio.jpg
+|   |-- cow-guitar1b.jpg
+|   |-- cow-jumped-moon1.gif
+|   |-- cow-jumped-moon1b.gif
+|   |-- cow-oscar1.jpg
+|   |-- cow-parade-backyard-palm-tree.jpg
+|   |-- cow-parade-backyard-palm-tree2.jpg
+|   |-- cow-parade-ryan-leigh.jpg
+|   |-- cow-parade-ryan-leigh2.jpg
+|   |-- cow-parade-surfing.png
+|   |-- cow-parade-surfing1.jpg
+|   |-- cow-polar-dip-2017.jpg
+|   |-- cow-tipping-book-bag1.jpg
+|   |-- cow-tipping1.gif
+|   |-- cow-tipping1.jpg
+|   |-- cow-tipping1b.gif
+|   |-- cow-zipline1.jpg
+|   |-- cowboys-fighting-words1.gif
+|   |-- cowboys-fighting-words1b.gif
+|   |-- curiosity-killed-cat1.gif
+|   |-- curiosity-killed-cat1b.gif
+|   |-- d&c-talk-june2016.png
+|   |-- daily-comic-texts.png
+|   |-- dead-survival1.gif
+|   |-- dead-survival1b.gif
+|   |-- deadline-club1.jpg
+|   |-- deadline-club2.jpg
+|   |-- decor-athletic-jogger-b-min.png
+|   |-- decor-athletic-jogger-b.png
+|   |-- decor-bear-blanket-b-min.png
+|   |-- decor-bear-blanket-b.png
+|   |-- decor-giraffe-blanket-b.png
+|   |-- decor-giraffe-blanket.png
+|   |-- decor-infant-onsies-b-min.png
+|   |-- decor-infant-onsies-b.png
+|   |-- decor-infant-onsies.png
+|   |-- decor-kids-backpack-b-min.png
+|   |-- decor-kids-backpack-b.png
+|   |-- decor-kids-backpack.png
+|   |-- decor-mens-sneakers-b-min.png
+|   |-- decor-mens-sneakers-b.png
+|   |-- decor-metal-signs-b-min.png
+|   |-- decor-metal-signs-b.png
+|   |-- decor-pillow-b-min.png
+|   |-- decor-pillow-b.png
+|   |-- decor-plastic-tumblers-b-min.png
+|   |-- decor-plastic-tumblers-b.png
+|   |-- decor-veggie-apron-b-min.png
+|   |-- decor-veggie-apron-b.png
+|   |-- decor-veggie-apron.png
+|   |-- delivered-by-milkman1.gif
+|   |-- delivered-by-milkman1b.gif
+|   |-- design-week-portland4-18-18.jpg
+|   |-- design-week-portland4-18-18.png
+|   |-- dinosaurs-curvaceous1.gif
+|   |-- dinosaurs-curvaceous1b.gif
+|   |-- dog-calendar2014.jpg
+|   |-- dog-calendar2015.jpg
+|   |-- dog-drink-toilet1.gif
+|   |-- dog-drink-toilet1b.gif
+|   |-- draw-cow1.jpg
+|   |-- drawing-inspiration1.gif
+|   |-- duck-oink1.gif
+|   |-- duck-oink1b.gif
+|   |-- duel-vultures1.gif
+|   |-- duel-vultures1b.gif
+|   |-- dung-balls1.gif
+|   |-- dung-balls1b.gif
+|   |-- ecard-baskin-robbins.gif
+|   |-- ecard-baskin-robbins.jpg
+|   |-- ecard-bitme1.jpg
+|   |-- ecard-blackeyes1.jpg
+|   |-- ecard-brownnose1.jpg
+|   |-- ecard-bunnies1.jpg
+|   |-- ecard-chicken-combo.gif
+|   |-- ecard-chicken-combo.jpg
+|   |-- ecard-dairyfarm1.jpg
+|   |-- ecard-holycactus1.jpg
+|   |-- ecard-no-new-messages1.jpg
+|   |-- ecard-piratebooty1.jpg
+|   |-- ecard-rings-udder.gif
+|   |-- ecard-rings-udder.jpg
+|   |-- ecard-rudolph1.jpg
+|   |-- ecard-snowglobe1.jpg
+|   |-- ecard-whippedcream1.jpg
+|   |-- elephant-fan1.gif
+|   |-- elephant-fan1b.gif
+|   |-- ernie-ball-rubes-moosic-man-guitar1.gif
+|   |-- ernie-ball-rubes-moosic-man-guitar1b.gif
+|   |-- ernie-ball-rubes-moosic-man-guitar2.gif
+|   |-- ernie-ball-rubes-moosic-man-guitar2b.gif
+|   |-- event-chuck-jones-chat1.jpg
+|   |-- event-create-perfect-cartoon.jpg
+|   |-- event-rangeland-trust1.jpg
+|   |-- event-schema.jpg
+|   |-- event-secret-create-cartoon1.jpg
+|   |-- events-og.jpg
+|   |-- events.html
+|   |-- facebook-logo-transp.png
+|   |-- facebook1.gif
+|   |-- falling-rocks1.gif
+|   |-- falling-rocks1b.gif
+|   |-- farm-womens-symposium1.jpg
+|   |-- farm-womens-symposium1b.jpg
+|   |-- fertilizer-factory1.gif
+|   |-- fertilizer-factory1b.gif
+|   |-- fish-bowl-escape1.gif
+|   |-- fish-bowl-escape1b.gif
+|   |-- forgetful1.gif
+|   |-- forgetful1b.gif
+|   |-- free-iphone-app1.gif
+|   |-- free-shipping.png
+|   |-- fres-bee-on-road1.jpg
+|   |-- fres-bee-on-road1b.jpg
+|   |-- fresno-bee-2015.png
+|   |-- fresno-bee-secret-cartoon1.jpg
+|   |-- frog-tongue-stuck1.gif
+|   |-- frog-tongue-stuck1b.gif
+|   |-- furniture-repair1.gif
+|   |-- furniture-repair1b.gif
+|   |-- giraffe-cow1.gif
+|   |-- giraffe-cow1.jpg
+|   |-- gooddaysac-facetime.jpg
+|   |-- gotmilk3.jpg
+|   |-- gotmilk3b.jpg
+|   |-- greeting-cards-schema-og.jpg
+|   |-- greeting-cards1-min.png
+|   |-- greeting-cards1.pdf
+|   |-- greeting-cards1.png
+|   |-- ground-rods-hmpg1d.jpg
+|   |-- guilty-fraud1.gif
+|   |-- guilty-fraud1b.gif
+|   |-- hammer-song1.gif
+|   |-- hammer-song1b.gif
+|   |-- heyworth1.jpg
+|   |-- heyworth1b.jpg
+|   |-- his-hers-dryers1.gif
+|   |-- his-hers-dryers1b.gif
+|   |-- historical-marker1.gif
+|   |-- historical-marker1b.gif
+|   |-- horse-calendar2014.jpg
+|   |-- humpty-dumpty-trauma1.gif
+|   |-- humpty-dumpty-trauma1b.gif
+|   |-- imag-thru-eyes-cartoonist1.png
+|   |-- images
+|   |-- incompetent-click1.gif
+|   |-- incompetent-click1b.gif
+|   |-- index.html
+|   |-- inland-press1.jpg
+|   |-- inland-press1b.jpg
+|   |-- instagram-icon.png
+|   |-- jaws1.gif
+|   |-- jaws1b.gif
+|   |-- kansas-city-library1.jpg
+|   |-- kansas-city-library1b.jpg
+|   |-- karma1.gif
+|   |-- karma1b.gif
+|   |-- kentucky-chicken1.gif
+|   |-- kentucky-chicken1b.gif
+|   |-- kite-getting-high1.gif
+|   |-- kite-getting-high1b.gif
+|   |-- knives-boat1.gif
+|   |-- knives-boat1.jpg
+|   |-- knives-boat1b.gif
+|   |-- laughing-gas1.gif
+|   |-- laughing-gas1b.gif
+|   |-- leigh-at-imagine-rit1-min.jpg
+|   |-- leigh-at-imagine-rit1.jpg
+|   |-- leigh-awe1b.jpg
+|   |-- leigh-blue1.jpg
+|   |-- leigh-career-day-show-Jan-2017.jpg
+|   |-- leigh-cow-parade.jpg
+|   |-- leigh-cow1.jpg
+|   |-- leigh-cross-legged-w-bunny.jpg
+|   |-- leigh-cubberly-ceremony.jpg
+|   |-- leigh-cuts-ribbon-childrens-garden.jpg
+|   |-- leigh-drawing-a-cow.jpg
+|   |-- leigh-fan-sml.jpg
+|   |-- leigh-interview-cody-statefair.jpg
+|   |-- leigh-interview-sac-ca.jpg
+|   |-- leigh-interview-today-in-nashville.jpg
+|   |-- leigh-interviewe-wsmv-tv-2-1-17.jpg
+|   |-- leigh-interviewed-beth-adams1.jpg
+|   |-- leigh-interviewed-fox-rochester-rit1.jpg
+|   |-- leigh-intv-cody-stark-gd-sac.jpg
+|   |-- leigh-john-stossel1.jpg
+|   |-- leigh-john-stossel1b.jpg
+|   |-- leigh-kcoy1.jpg
+|   |-- leigh-madison.jpg
+|   |-- leigh-modesto-b.jpg
+|   |-- leigh-n-rit-interview.jpg
+|   |-- leigh-natl-cattlemens-conv-2-3-17.jpg
+|   |-- leigh-rit-students.jpg
+|   |-- leigh-rit2.jpg
+|   |-- leigh-rit2.png
+|   |-- leigh-ryan-johnson-n-cow1.png
+|   |-- leigh-stroke-of-inspiration1.jpg
+|   |-- leigh-two-bunnies1.png
+|   |-- leigh-udderly-ridiculous.jpg
+|   |-- leigh-working-with-local-scouts.jpg
+|   |-- lemming-tug1.gif
+|   |-- lemming-tug1b.gif
+|   |-- liegh-how-to-draw-a-cow-in-one-minute1.png
+|   |-- linked-in.png
+|   |-- lion-sideofbeef1.gif
+|   |-- lion-sideofbeef1b.gif
+|   |-- magnet-tasty-pig1b.png
+|   |-- magnet-tasty-pig1c.png
+|   |-- man-dog-house1.gif
+|   |-- man-dog-house1b.gif
+|   |-- marshmallow-heaven1.gif
+|   |-- marshmallow-heaven1b.gif
+|   |-- menu-gray.png
+|   |-- mickey-mouse-club1.jpg
+|   |-- mickey-mouse-club1b.jpg
+|   |-- mickeymouse-time1.gif
+|   |-- mickeymouse-time1b.gif
+|   |-- middleton-library1.jpg
+|   |-- middleton-library1b.jpg
+|   |-- mock-a-killing-bird1.jpg
+|   |-- mock-a-killing-bird1b.jpg
+|   |-- mod-bee-on-road1.jpg
+|   |-- mod-bee-on-road1b.jpg
+|   |-- moola-jitterbugging1.gif
+|   |-- moola-jitterbugging1b.gif
+|   |-- moola-license-plate1.gif
+|   |-- moola-license-plate1b.gif
+|   |-- moola-partying1.gif
+|   |-- moola-partying1b.gif
+|   |-- mother-goose1.jpg
+|   |-- mother-goose1b.jpg
+|   |-- motion-sickness1.gif
+|   |-- motion-sickness1b.gif
+|   |-- nashville-promo1.jpg
+|   |-- nashville-promo1b.jpg
+|   |-- neighborhood-watch1.gif
+|   |-- neighborhood-watch1b.gif
+|   |-- new-muffler1.gif
+|   |-- new-muffler1_tbn.gif
+|   |-- new.gif
+|   |-- new2.gif
+|   |-- new3.gif
+|   |-- new3.png
+|   |-- news-jerry-scott1.jpg
+|   |-- news-the-commute1.jpg
+|   |-- news.html
+|   |-- newsletter1.png
+|   |-- newspaper-strike1b.jpg
+|   |-- newspaper-strike1b.png
+|   |-- no-amateur-murder1.gif
+|   |-- no-amateur-murder1b.gif
+|   |-- old-bat-mother1.gif
+|   |-- old-bat-mother1b.gif
+|   |-- old-bear1.gif
+|   |-- old-bear1b.gif
+|   |-- old-lions1.gif
+|   |-- old-lions1b.gif
+|   |-- orange-county-register1.jpg
+|   |-- orange-county-register1b.jpg
+|   |-- order-yours-now1b.png
+|   |-- orgami1.gif
+|   |-- orgami1b.gif
+|   |-- osu-poster1.jpg
+|   |-- osu-poster1b.jpg
+|   |-- ottawa-ks1.jpg
+|   |-- ottawa-ks1b.jpg
+|   |-- pat-on-back1.gif
+|   |-- pat-on-back1b.gif
+|   |-- peace-fist1.jpg
+|   |-- peace-fist1b.jpg
+|   |-- pierced-udders1.jpg
+|   |-- pierced-udders1b.jpg
+|   |-- pig-lunchmeat1.gif
+|   |-- pig-lunchmeat1b.gif
+|   |-- pinterest-pin-it-button2.jpg
+|   |-- pinterest-pin-it-button2.png
+|   |-- playing-w-food.jpg
+|   |-- popular-science-combo1.jpg
+|   |-- popular-science-combo1b.jpg
+|   |-- potato-eyes.jpg
+|   |-- pre-order-now1b.png
+|   |-- pre-order-now1c.png
+|   |-- procrastination1.gif
+|   |-- procrastination1b.gif
+|   |-- promo-eugene1.jpg
+|   |-- promo-eugene1b.jpg
+|   |-- promo-rochester-ny1.jpg
+|   |-- promo-rochester-ny1b.jpg
+|   |-- promo-verona2012a.jpg
+|   |-- promo-verona2012b.jpg
+|   |-- queens1.jpg
+|   |-- queens1b.jpg
+|   |-- quicksand-toolate1.gif
+|   |-- quicksand-toolate1b.gif
+|   |-- rabbit-ears1.jpg
+|   |-- rabbit-ears1b.jpg
+|   |-- rabbit-veggies1.gif
+|   |-- rabbit-veggies1b.gif
+|   |-- railroad-engineer1.gif
+|   |-- railroad-engineer1b.gif
+|   |-- raining-snoring1.gif
+|   |-- raining-snoring1b.gif
+|   |-- redneck-pinata1.gif
+|   |-- redneck-pinata1b.gif
+|   |-- reindeer-xmas-card1.jpg
+|   |-- reindeer1.gif
+|   |-- reindeer1_tbn.gif
+|   |-- rit-anderson-cooper.jpg
+|   |-- rit-brickcityland-banner1.jpg
+|   |-- rit-brickcityland-banner1b-min.jpg
+|   |-- rit-brickcityland-banner1b.jpg
+|   |-- rit-college-health-sciences-tech1.jpg
+|   |-- rit-college-health-sciences-tech1b-min.png
+|   |-- rit-college-health-sciences-tech1b.jpg
+|   |-- rit-college-of-art-n-design1.jpg
+|   |-- rit-college-of-art-n-design1b-min.jpg
+|   |-- rit-college-of-art-n-design1b.jpg
+|   |-- rit-college-of-computing-info-sciences1.jpg
+|   |-- rit-college-of-computing-info-sciences1.png
+|   |-- rit-college-of-computing-info-sciences1b-min.png
+|   |-- rit-college-of-computing-info-sciences1b.jpg
+|   |-- rit-college-of-engineering-technology1.jpg
+|   |-- rit-college-of-engineering-technology1b-min.jpg
+|   |-- rit-college-of-engineering-technology1b.jpg
+|   |-- rit-college-of-engineering1.jpg
+|   |-- rit-college-of-engineering1b-min.jpg
+|   |-- rit-college-of-engineering1b.jpg
+|   |-- rit-college-of-liberal-arts1.jpg
+|   |-- rit-college-of-liberal-arts1b-min.jpg
+|   |-- rit-college-of-liberal-arts1b.jpg
+|   |-- rit-college-of-science1.jpg
+|   |-- rit-college-of-science1b-min.jpg
+|   |-- rit-college-of-science1b.jpg
+|   |-- rit-hockey1.jpg
+|   |-- rit-hockey1b-min.jpg
+|   |-- rit-hockey1b.jpg
+|   |-- rit-institute-for-sustainability1.jpg
+|   |-- rit-institute-for-sustainability1b-min.jpg
+|   |-- rit-institute-for-sustainability1b.jpg
+|   |-- rit-lecture-mike-johannsson-james-winegrake-n-leigh1.jpg
+|   |-- rit-lecture-mike-johannsson-james-winegrake-n-leigh1b-min.jpg
+|   |-- rit-lecture-mike-johannsson-james-winegrake-n-leigh1b.jpg
+|   |-- rit-live-stream-10-14-21.jpg
+|   |-- rit-national-technical-institute1.jpg
+|   |-- rit-national-technical-institute1b-min.png
+|   |-- rit-national-technical-institute1b.jpg
+|   |-- rit-pres-munson-dean-winebrake-n-Leigh-at-unveiling1.jpg
+|   |-- rit-pres-munson-dean-winebrake-n-Leigh-at-unveiling1b-min.jpg
+|   |-- rit-pres-munson-dean-winebrake-n-Leigh-at-unveiling1b.jpg
+|   |-- rit-ryan-johnson-n-leigh1.jpg
+|   |-- rit-ryan-johnson-n-leigh1b-min.jpg
+|   |-- rit-ryan-johnson-n-leigh1b.jpg
+|   |-- rit-sanders-college-of-business1.jpg
+|   |-- rit-sanders-college-of-business1b-min.jpg
+|   |-- rit-sanders-college-of-business1b.jpg
+|   |-- rit-school-of-itemized-study1.jpg
+|   |-- rit-school-of-itemized-study1b-min.jpg
+|   |-- rit-school-of-itemized-study1b.jpg
+|   |-- rit-setting-up-brickcityland-mural1.jpg
+|   |-- rit-setting-up-brickcityland-mural1b-min.jpg
+|   |-- rit-setting-up-brickcityland-mural1b.jpg
+|   |-- ritchie-tiger-n-leigh-at-brickcityland-mural-unveiling1.jpg
+|   |-- ritchie-tiger-n-leigh-at-brickcityland-mural-unveiling1b-min.jpg
+|   |-- ritchie-tiger-n-leigh-at-brickcityland-mural-unveiling1b.jpg
+|   |-- road-kill1.gif
+|   |-- road-kill1b.gif
+|   |-- roadrunner-coyote1.jpg
+|   |-- roadrunner-coyote1b.jpg
+|   |-- ronald-mc-d-party1.jpg
+|   |-- ronald-mc-d-party1b.jpg
+|   |-- rooster-crow1.gif
+|   |-- rooster-crow1b.gif
+|   |-- roseburg-oregon1.jpg
+|   |-- roseburg-oregon1b.jpg
+|   |-- rubes-event-wallace1.png
+|   |-- rubes-fox40-drawing-event.jpg
+|   |-- rubes-logo3.gif
+|   |-- rubes-playing-cards1.jpg
+|   |-- rubes-pop-culture-flyer.gif
+|   |-- rubes-shirts-ad2.jpg
+|   |-- rubes-shirts-ad2b.jpg
+|   |-- rubeslogobubble1.gif
+|   |-- rubeslogobubble1.png
+|   |-- rubinarthop-temp1.jpg
+|   |-- sac-bee-on-road1.jpg
+|   |-- sac-bee-on-road1b.jpg
+|   |-- sacramento-bee1.jpg
+|   |-- sacramento-bee1b.jpg
+|   |-- san-antonio1.jpg
+|   |-- san-antonio1b.jpg
+|   |-- san-diego-event-2016.png
+|   |-- sangabrielpromo1.jpg
+|   |-- sangabrielpromo1b.jpg
+|   |-- santa-fe-new-mexican1.jpg
+|   |-- santa-fe-new-mexican1b.jpg
+|   |-- santa-maria1.jpg
+|   |-- santa-maria1b.jpg
+|   |-- save-trees1.gif
+|   |-- save-trees1b.gif
+|   |-- school-counselor1.gif
+|   |-- school-counselor1b.gif
+|   |-- schulz1.jpg
+|   |-- schulz1b.jpg
+|   |-- scouting-patch2.jpg
+|   |-- scouting-patches.jpg
+|   |-- scuba-dict1.gif
+|   |-- scuba-dict1b.gif
+|   |-- secret-creating-perfect-cartoon1.jpg
+|   |-- shaving-underarm1.gif
+|   |-- shaving-underarm1b.gif
+|   |-- slo-adventure-cow-rough-draft.jpg
+|   |-- slo-adventure-cow-rough-draft2.jpg
+|   |-- slo-cow-napped.png
+|   |-- slo-cow-wipeout-pismo-beach.png
+|   |-- slo-making-of-adventure-cow.png
+|   |-- slo-meet-cartoonist.png
+|   |-- slo-missing-cow.jpg
+|   |-- slo-missing-cow2.png
+|   |-- snake-wet-panties1.gif
+|   |-- snake-wet-panties1b.gif
+|   |-- snow-white1.gif
+|   |-- snow-white1b.gif
+|   |-- snowman-teetertotter1.gif
+|   |-- snowman-teetertotter1b.gif
+|   |-- sour-milk.jpg
+|   |-- sour-milk2.jpg
+|   |-- speak-ag1.jpg
+|   |-- speak-ag1b.jpg
+|   |-- speak-ag2.jpg
+|   |-- speak-ag2b.jpg
+|   |-- speak-redbluff-theatre1.jpg
+|   |-- speak-redbluff-theatre1b.jpg
+|   |-- speak-redbluff1.jpg
+|   |-- speak-redbluff1b.jpg
+|   |-- spider-lines1.gif
+|   |-- spider-lines1b.gif
+|   |-- spir-free-beef.jpg
+|   |-- squirt-gun1.jpg
+|   |-- squirt-gun1b.jpg
+|   |-- steamed-vegetables-184x240-min.jpg
+|   |-- steamed-vegetables-184x240.jpg
+|   |-- steamed-vegetables-seps-transp-lg.jpg
+|   |-- steamed-vegetables-seps-transp-sml.jpg
+|   |-- steamed-vegetables-seps-transp.jpg
+|   |-- steamed-vegetables-seps-transp.png
+|   |-- steamed-vegetables1.gif
+|   |-- steamed-vegetables1_tbn.gif
+|   |-- steamed-vegetables1c.gif
+|   |-- steamed-vegetables1c.jpg
+|   |-- steamed-vegetables1cc.jpg
+|   |-- steamed-vegetables1ccc.jpg
+|   |-- steer-bathroom-tbn.jpg
+|   |-- steer-bathroom1.gif
+|   |-- steer-bathroom1_tbn.gif
+|   |-- steer-stealing-wallet1.gif
+|   |-- steer-stealing-wallet1b.gif
+|   |-- steve-ulrich-at-home.png
+|   |-- steves-new-heart-2.png
+|   |-- store-tshirt1b.gif
+|   |-- sunrise-speakers1.jpg
+|   |-- sunrise-speakers1b.jpg
+|   |-- super-hero-laundry.jpg
+|   |-- super-hero-underwear1.jpg
+|   |-- super-hero-underwear1b.jpg
+|   |-- technology-advances1.gif
+|   |-- technology-advances1b.gif
+|   |-- tennessean-promo-poster-2-6-17.jpg
+|   |-- thermometer-school1.gif
+|   |-- thermometer-school1b.gif
+|   |-- thin-ice1.gif
+|   |-- thin-ice1b.gif
+|   |-- think-like-cartoonist-1b.png
+|   |-- think-like-cartoonist-event1b.png
+|   |-- think-like-cartoonist-new-book1.png
+|   |-- think-like-cartoonist.jpg
+|   |-- thinking-outside-box.jpg
+|   |-- third-eye-exam1.gif
+|   |-- third-eye-exam1b.gif
+|   |-- tin-signs1b.jpg
+|   |-- tinker-bell-zap1.gif
+|   |-- tinker-bell-zap1b.gif
+|   |-- tongue-on-ice1.gif
+|   |-- tongue-on-ice1b.gif
+|   |-- topeka-ks1.jpg
+|   |-- topeka-ks1b.jpg
+|   |-- topeka1.jpg
+|   |-- topeka1b.jpg
+|   |-- toy-hall-fame1.jpg
+|   |-- tpc-order-form.jpg
+|   |-- tpc-order-form1b.jpg
+|   |-- tribunecowphoto1.jpg
+|   |-- tune-stuck-head1.gif
+|   |-- tune-stuck-head1b.gif
+|   |-- twisted-event-schema.jpg
+|   |-- twisted-pop-book-cover-min.jpg
+|   |-- twisted-pop-book-cover.jpg
+|   |-- twisted-pop-culture-og.jpg
+|   |-- twisted-pop-culture-schema.jpg
+|   |-- twisted-pop-culture1b.jpg
+|   |-- twisted-pop-culture1c.jpg
+|   |-- twisted-pop-culture1d.jpg
+|   |-- twisted-pop-culture1f.jpg
+|   |-- twisted-pop-culture2c.jpg
+|   |-- twitter-logo-sml.gif
+|   |-- twitter-logo-transp-exsml.png
+|   |-- unfinished-business1.jpg
+|   |-- unfinished-business1b.jpg
+|   |-- unfinished-business2.jpg
+|   |-- unfinished-business2b.jpg
+|   |-- university-oregon1.jpg
+|   |-- university-oregon1b.jpg
+|   |-- unleash-potential1.jpg
+|   |-- unleash-potential1b.jpg
+|   |-- verona-show-review.png
+|   |-- video-agday1.jpg
+|   |-- video-friday-funnies-agday3.jpg
+|   |-- video-fridayfunnies-agday1.jpg
+|   |-- video-fridayfunnies-agday2.jpg
+|   |-- video-fridayfunnies-agday4.jpg
+|   |-- video-interview-wibw.jpg
+|   |-- video-screenshot-cow-git1b.jpg
+|   |-- video-tn-cody-cbs.jpg
+|   |-- video-umpqua1.jpg
+|   |-- visit-slo-logo.jpg
+|   |-- wall-calendar-2023-b-min.jpg
+|   |-- wall-calendar-2023.jpg
+|   |-- wall-calendars-2022b.jpg
+|   |-- wall-callendar-2024-b-min.png
+|   |-- water-displacement1.gif
+|   |-- water-displacement1b.gif
+|   |-- when-world-collide-imb.jpg
+|   |-- whipped-cream1.gif
+|   |-- whipped-cream1_tbn.gif
+|   |-- wicked-witch-water1.gif
+|   |-- wicked-witch-water1b.gif
+|   |-- wickedpedia1.gif
+|   |-- wickedpedia1b.gif
+|   |-- wild-twisted1.jpg
+|   |-- wild-twisted1b.jpg
+|   |-- wildlifeofcats.jpg
+|   |-- wisconsin-tour-poster.jpg
+|   |-- worst-nightmare1.gif
+|   |-- worst-nightmare1b.gif
+|   |-- wsmv-review1.jpg
+|   |-- yoda-1.jpg
+|   |-- yoda-1b.jpg
+|   |-- zazzle-store1.jpg
+|   |-- zoo-in-box-2016.png
+|   |-- zoo-in-box-2017.png
+|   |-- zoo-in-box-2017b.png
+|   |-- zoo-in-box-2018.jpg
+|   |-- zoo-in-box-2018b.jpg
+|   |-- zoo-in-box-calendar-2019.jpg
+|   |-- zoo-in-box-calendar-2020-300.jpg
+|   |-- zoo-in-box-calendar-2020.jpg
+|   |-- zoo-in-box-calendar-2021-300.jpg
+|   |-- zoo-in-box-calendar-2022.jpg
+|   |-- zoo-in-box-calendar-2023-min.jpg
+|   |-- zoo-in-box-calendar-2023.jpg
+|   |-- zoo-in-box-calendar-2024-min.png
+|   |-- zoo-in-box-calendar2-2019.jpg
+|   |-- zoo-in-box-calendar2015.jpg
+|   |-- zooinabox2010aa.gif
+|   `-- zooinabox2010b.gif
+|-- images-buttons
+|   |-- bookleigh.gif
+|   |-- bubble-add-cart.png
+|   |-- bubble5.gif
+|   |-- bubblelarge5.gif
+|   |-- button-about3.gif
+|   |-- button-book-of-moo.gif
+|   |-- button-book-of-moo2.gif
+|   |-- button-bookleigh3.gif
+|   |-- button-contact3.gif
+|   |-- button-cow-parade.gif
+|   |-- button-cow-parade.png
+|   |-- button-cowguitar3.gif
+|   |-- button-ecard-text.gif
+|   |-- button-ecards.gif
+|   |-- button-ecards3.gif
+|   |-- button-events3.gif
+|   |-- button-faq3.gif
+|   |-- button-gallery1.gif
+|   |-- button-gallery2.gif
+|   |-- button-gallery3.gif
+|   |-- button-home3.gif
+|   |-- button-magnet3.gif
+|   |-- button-news3.gif
+|   |-- button-prints3.gif
+|   |-- button-references-ecards.gif
+|   |-- button-references2.gif
+|   |-- button-references3.gif
+|   |-- button-references3a.gif
+|   |-- button-rubes-prints-text.gif
+|   |-- button-store3.gif
+|   |-- button-tv-film3.gif
+|   |-- button-twisted-pop-culture.gif
+|   |-- button-why-grow-up3b.gif
+|   |-- order-now1.png
+|   `-- rubeslogobubble1.png
+|-- images-store
+|   |-- RM2946-manure-happens1.jpg
+|   |-- RM2946-manure-happens1b.jpg
+|   |-- five-calendars-2019.jpg
+|   |-- five-calendars-2019b.jpg
+|   |-- magnet-50-shades1.jpg
+|   |-- magnet-noteable-quotes1.png
+|   |-- magnet-secret-friend1.png
+|   |-- magnet-tasty-pig1.png
+|   |-- magnet-tasty-pig1b.png
+|   |-- magnet-tasty-pig1c.png
+|   |-- magnet-tasty-pig1d.png
+|   |-- magnet-twitter1.png
+|   |-- notable-quotes1.jpg
+|   |-- rm2930-whipped-cream1.jpg
+|   |-- rm2930-whipped-cream1b.jpg
+|   |-- rm2931-steamed-vegetables1.jpg
+|   |-- rm2931-steamed-vegetables1b.jpg
+|   |-- rm2932-milked-pants1.jpg
+|   |-- rm2932-milked-pants1b.jpg
+|   |-- rm2933-no-messages1.jpg
+|   |-- rm2933-no-messages1b.jpg
+|   |-- rm2934-longhorn1.jpg
+|   |-- rm2934-longhorn1b.jpg
+|   |-- rm2935-snowglobe1.jpg
+|   |-- rm2935-snowglobe1b.jpg
+|   |-- rm2936-hate-life1.jpg
+|   |-- rm2936-hate-life1b.jpg
+|   |-- rm2937-baskin-robins1.jpg
+|   |-- rm2937-baskin-robins1b.jpg
+|   |-- rm2938-fish-with-gun1.jpg
+|   |-- rm2938-fish-with-gun1b.jpg
+|   |-- rm2939-his-n-hers1.jpg
+|   |-- rm2939-his-n-hers1b.jpg
+|   |-- rm2940-black-eye1.jpg
+|   |-- rm2940-black-eye1b.jpg
+|   |-- rm2941-tech-advance1.jpg
+|   |-- rm2941-tech-advance1b.jpg
+|   |-- rm2942-new-muffler1.jpg
+|   |-- rm2942-new-muffler1b.jpg
+|   |-- rm2943-bunny-ears1.jpg
+|   |-- rm2943-bunny-ears1b.jpg
+|   |-- rm2944-big-a-ranch1.jpg
+|   |-- rm2944-big-a-ranch1b.jpg
+|   |-- rm2945-stop-global-warming1.jpg
+|   |-- rm2945-stop-global-warming1b.jpg
+|   |-- rm2947-dog-checks-messages1.jpg
+|   |-- rm2947-dog-checks-messages1b.jpg
+|   |-- rm2948-bear-outhouse1.jpg
+|   |-- rm2948-bear-outhouse1b.jpg
+|   |-- rm2949-reptile-dysfunction1.jpg
+|   |-- rm2949-reptile-dysfunction1b.jpg
+|   |-- rm2950-octopus-scare1.jpg
+|   |-- rm2950-octopus-scare1b.jpg
+|   |-- rm2951-waste-chalk1.jpg
+|   |-- rm2951-waste-chalk1b.jpg
+|   |-- rm3019-introduce-my-staff1.jpg
+|   |-- rm3019-introduce-my-staff1b.jpg
+|   |-- rm3020-lost-at-c1.jpg
+|   |-- rm3020-lost-at-c1b.jpg
+|   |-- rm3021-change-key1.jpg
+|   |-- rm3021-change-key1b.jpg
+|   |-- rm3022-flat-rush-hour1.jpg
+|   |-- rm3022-flat-rush-hour1b.jpg
+|   |-- rm3023-repeats-himself1.jpg
+|   |-- rm3023-repeats-himself1b.jpg
+|   |-- rm3024-rhythm-method1.jpg
+|   |-- rm3024-rhythm-method1b.jpg
+|   |-- rm3025-no-minors-allowed1.jpg
+|   |-- rm3025-no-minors-allowed1b.jpg
+|   |-- rm3026-come-to-bar1.jpg
+|   |-- rm3026-come-to-bar1b.jpg
+|   |-- rm3027-rock-and-roll1.jpg
+|   |-- rm3027-rock-and-roll1b.jpg
+|   |-- rm3038-under-a-rest1.jpg
+|   |-- rm3038-under-a-rest1b.jpg
+|   |-- rm4347-humptys-repair1.jpg
+|   |-- rm4347-humptys-repair1b.jpg
+|   |-- rm4348-t-rex-on-pot1.jpg
+|   |-- rm4348-t-rex-on-pot1b.jpg
+|   |-- rm4349-warm-water-trick1.jpg
+|   |-- rm4349-warm-water-trick1b.jpg
+|   |-- rm4350-bladder-control1.jpg
+|   |-- rm4350-bladder-control1b.jpg
+|   |-- rm4351-mayan-calendar1.jpg
+|   |-- rm4351-mayan-calendar1b.jpg
+|   |-- rm4352-high-kite1.jpg
+|   |-- rm4352-high-kite1b.jpg
+|   |-- rm4353-cat-trap1.jpg
+|   |-- rm4353-cat-trap1b.jpg
+|   |-- rm4354-chicken-or-egg1.jpg
+|   |-- rm4354-chicken-or-egg1b.jpg
+|   |-- rm4355-designated-cucumber1.jpg
+|   |-- rm4355-designated-cucumber1b.jpg
+|   |-- rm4356-hear-mime1.jpg
+|   |-- rm4356-hear-mime1b.jpg
+|   |-- rm4800-snow-lady-shaving.jpg
+|   |-- rm4800-snow-lady-shaving1.jpg
+|   |-- rm4801-aligator-deodorant.jpg
+|   |-- rm4801-t-rex-deodorant.jpg
+|   |-- rm4801-t-rex-deodorant1.jpg
+|   |-- rm4802-scared-clouds.jpg
+|   |-- rm4802-scared-clouds1.jpg
+|   |-- rm4803-attaboy.jpg
+|   |-- rm4803-attaboy1.jpg
+|   |-- rm4804-tune-head.jpg
+|   |-- rm4804-tune-head1.jpg
+|   |-- rm4805-dung-ball.jpg
+|   |-- rm4805-dung-ball1.jpg
+|   |-- rm4806-dog-laughing.jpg
+|   |-- rm4806-dog-pointing.jpg
+|   |-- rm4806-dog-pointing1.jpg
+|   |-- rm4807-fresh-underwear.jpg
+|   |-- rm4807-fresh-underwear1.jpg
+|   |-- rm4808-man-doghouse.jpg
+|   |-- rm4808-man-doghouse1.jpg
+|   |-- rm4809-fish-secret-friend.jpg
+|   |-- rm4809-goldfish-secret-friend1.jpg
+|   |-- rm4810-12-followers.jpg
+|   |-- rm4810-12-followers.png
+|   |-- rm4810-12-followers1.jpg
+|   |-- rm4811-stolen-book.jpg
+|   |-- rm4811-stolen-book1.jpg
+|   |-- rm4812-election-inflation.jpg
+|   |-- rm4812-election-inflation1.jpg
+|   |-- rm4813-nightmares.jpg
+|   |-- rm4813-nightmares1.jpg
+|   |-- rm4814-nerd-geek.jpg
+|   |-- rm4814-unkool-aid.jpg
+|   |-- rm4814-unkool-aid1.jpg
+|   |-- rm4815-follow-ur-dreams1.jpg
+|   |-- rm4815-follow-ur-dreams1b.jpg
+|   |-- rm4816-carrot-veggie.jpg
+|   |-- rm4817-grim-reaper1.jpg
+|   |-- rm4817-grim-reaper1b.jpg
+|   |-- rm4818-t-rex-stairs1.jpg
+|   |-- rm4818-t-rex-stairs1b.jpg
+|   |-- rm4819-rearrange-face1.jpg
+|   |-- rm4819-rearrange-face1b.jpg
+|   |-- rm4820-just-like-dad1.jpg
+|   |-- rm4820-just-like-dad1b.jpg
+|   |-- rm4821-fifty-shades-hay1.jpg
+|   |-- rm4821-fifty-shades-hay1b.jpg
+|   |-- rm4822-pig-links1b.jpg
+|   |-- rm5504-porcupine-cactus1.jpg
+|   |-- rm5504-porcupine-cactus1b.jpg
+|   |-- rm5504-porqupine-cactus.jpg
+|   |-- rm5504-porqupine-cactus1.jpg
+|   |-- rm5504-porqupine-cactus1b.jpg
+|   |-- rm5505-running-of-bulls1.jpg
+|   |-- rm5505-running-of-bulls1b.jpg
+|   |-- rm5506-freshen-drink1.jpg
+|   |-- rm5506-freshen-drink1b.jpg
+|   |-- rm5507-canine-mixers1.jpg
+|   |-- rm5507-canine-mixers1b.jpg
+|   |-- rm5507-canine-mixers1bjpg.jpg
+|   |-- rm5508-bunny-story1.jpg
+|   |-- rm5508-bunny-story1b.jpg
+|   |-- rm5509-dino-at-museum1.jpg
+|   |-- rm5509-dino-at-museum1b.jpg
+|   |-- rm5509-dino-lineup1.jpg
+|   |-- rm5509-dino-lineup1b.jpg
+|   |-- rm5510-lion-trainer-circus1.jpg
+|   |-- rm5510-lion-trainer-circus1b.jpg
+|   |-- rm5511-unicorn-speeding1.jpg
+|   |-- rm5511-unicorn-speeding1b.jpg
+|   |-- rm5512-cat-mailman1.jpg
+|   |-- rm5512-cat-mailman1b.jpg
+|   |-- rm5513-cat-rockin1.jpg
+|   |-- rm5513-cat-rockin1b.jpg
+|   |-- sitemap.xml
+|   `-- wild-twisted1c.jpg
+|-- index.html
+|-- jquery.js
+|-- judge.html
+|-- logo.txt
+|-- menu.txt
+|-- missing.html
+|-- news.html
+|-- newsletter.html
+|-- pdf
+|   |-- laugh-along-with-leigh.pdf
+|   |-- macon-ad.pdf
+|   |-- ndhia-scholarship-book-of-moo-9-22-16.pdf
+|   `-- verona-library-2016-promo.pdf
+|-- pinterest-eaf56-1.html
+|-- prints.html
+|-- references.html
+|-- rit-cartoonist-in-residence.html
+|-- robots.txt
+|-- script.js
+|-- shipping-magnets.txt
+|-- sitemap.xml
+|-- social-likes.txt
+|-- socialicons.txt
+|-- store-cartoon-magnets.html
+|-- store-cartoon-magnets2.html
+|-- store-cartoon-magnets3.html
+|-- store-cartoon-magnets4.html
+|-- store-cartoon-magnets5.html
+|-- store-cartoon-magnets6.html
+|-- store.html
+|-- t-shirts.html
+|-- testimonies.html
+|-- thanks.html
+|-- tv-film.html
+|-- twisted-mind-event.html
+|-- twisted-pop-culture.html
+|-- videos
+|   |-- 6-19-09.wmv
+|   |-- agweb-ff-intro-001.swf
+|   |-- agweb-ff-intro-002.swf
+|   |-- agweb-ff-intro-003.swf
+|   |-- agweb-ff-intro-004.swf
+|   |-- agweb-interview-005.swf
+|   |-- cow-polar-dip-2017.mov
+|   |-- cow-polar-dip-2017.mp4
+|   |-- rubes-speak1.swf
+|   |-- rubes-speaks1.swf
+|   `-- umpqua-art-center-interview.swf
+`-- zoo-in-box-calendar-2020.jpg
+
+8 directories, 1990 files

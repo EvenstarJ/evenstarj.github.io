@@ -1,0 +1,775 @@
+body {
+	font-family: arial,Helvetica,sans-serif;
+	color: #000;
+	font-size: 1.000em;  /*--base font 16px --*/
+	top:0;
+	left:0;
+	margin:0;
+	padding:0; 	
+  }
+	
+	
+#container {width:100%;
+	max-width:60.000em; /*960 px*/ 
+	position:relative;
+      margin: 0 10px 10px 10px;
+	padding:5px; 
+	border: 2px solid #999;
+	box-shadow: 3px 3px 3px #ccc;  }
+	
+	
+h1, h2, h3	{
+	color: #333;  }    /* Maroon*/
+
+H1 {
+	font-family:'Comic Sans MS', 'TSCu_Comic', cursive;
+	font-size:1.625em; /*26px*/
+	font-style: italic; 
+	margin-top:0;
+	padding-top:25px;
+	text-align: center;
+	background: transparent;  } 
+
+H2 { 
+	font-family:'Comic Sans MS', 'TSCu_Comic', cursive;
+	font-size:1.5em; /*24px*/
+	text-align: left;
+	background: transparent;   } 
+
+H3 { 
+	font-family:'Comic Sans MS', 'TSCu_Comic', cursive;
+	font-size:1.25em; /* 20px */ 
+	font-weight:bold;
+  background: transparent;
+  text-align: left; } 
+
+
+	    /*----header----*/
+	
+#header {width:100%;
+	background:transparent; }
+	 
+#logo {	
+	float:left;  } 
+
+.headergallery {
+	text-align:center;
+	margin-left:8px;
+	white-space:nowrap;   }
+.headergalleryitem {
+	margin:10px 3px;
+  display: inline-block;
+  text-align:center; 
+  vertical-align: top; }
+   
+      /*----end header---- */
+      
+#content {
+	clear:both;
+	width:85%;  /*816px*/
+	margin:0 auto;}
+	
+#footer {
+	width:98%;
+	margin:0 auto;
+	font-size:90%; }
+	
+	
+
+.socialicons {width:280px;
+	margin:0 auto; 
+	padding-left:5px;}
+.socialicons img {
+		height: 30px;
+		width: 30px;
+		margin:5px; }
+
+.sociallikes {width:500px;
+		display:block; 
+	  margin:0 auto;
+	  text-align:center;}
+
+
+	
+	
+		/*----------FONTS --------------*/
+	
+			/*16px base font */
+.exsmallfont {font-size:0.750em;}     /*12px*/
+.smallfont {font-size:0.857em;}       /*14px*/
+.medfont {font-size:1.000em;}         /*16px*/
+.largefont {font-size:1.125em; }      /*18px*/
+.exlargefont {font-size:1.250em; }    /*20px*/
+.exexlargefont {font-size:1.375em; }  /*22px*/
+
+
+.red {color:#f00;}
+.bold {font-weight:bold;}
+.lgred {font-size:24px; color:red;}
+.whtbg {background:#fff; }
+
+/* ----------POSITIONING --------*/
+
+.left {text-align:left;} 
+.center {text-align:center;}
+.right {text-align:right;}
+
+.textbottom {vertical-align:text-bottom;} /*put in img tag*/
+.textmiddle {vertical-align:middle;}
+.texttop {vertical-align:top;}
+.textbaseline {vertical-align:baseline;}
+
+.clearboth {clear:both;}
+.clearleft {clear:left;}
+.clearright {clear:right;}
+
+
+/*-------PADDING MARGINS -----------*/
+
+.pad5 {padding:5px; }
+.pad8 {padding:8px; }
+.pad8t {padding-top:8px; }
+.pad8lrb {padding:0 8px 8px 8px;}
+.pad10 {padding:10px; }
+.pad12 {padding:12px; }
+.pad12l {padding-left:12px; }
+.pad12r {padding-right:12px; }
+.pad12t {padding-top:12px; }
+.pad12b {padding-bottom:12px; }
+.pad20 {padding:20px;}
+.pad20l {padding-left:20px; }
+.pad20r {padding-right:20px; }
+
+.mar12 {margin:12px; }
+.mar12l {margin-left:12px; }
+.mar12r {margin-right:12px; }
+.mar12b {margin-bottom:12px; }
+.mar12t {margin-top:12px; }
+
+.mar8 {margin:8px; }
+.mar8l {margin-left:8px; }
+.mar8r {margin-right:8px; }
+.mar8b {margin-bottom:8px; }
+.mart8 {margin-top:8px; }
+
+.mar20 {margin:20px; }
+.mar20l {margin-left:20px; }
+.mar20r {margin-right:20px; }
+.mar20b {margin-bottom:20px; }
+
+
+* {box-sizing:border-box; }/*to keep border padding inside of boxes*/
+
+
+        /* ---------STYLING ------------*/
+ 
+ img {border:0;
+	max-width:100%; 
+	height:auto;} /*preserves aspect ratio*/
+
+.dropshadow {   
+	box-shadow: 4px 4px 4px #ccc; }
+	
+.block {display: block; }
+
+.roundedcorners {
+	border-radius:10px;  } 
+	
+.nowrap {white-space:nowrap; } /* use spans to keep words together */
+
+.bullet { font-size: 25px; font-weight: bold; }
+
+.border {border:1px solid #999;}
+.bordergray {border:1px solid #999;}
+
+.indent { margin-left:1.5em;
+   margin-right: 1.5em; }
+
+UL  {list-style-type: disc; 
+	font-size: 14px; 
+	font-family: arial,Helvetica,sans-serif; }
+	
+	
+	
+/*********  SPECIAL FEATURES ********/
+
+.cite { font-style:italic;
+font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; }
+
+.caption  {color: #333;  /*charcoal under images*/
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	background: transparent;
+	font-style:italic;
+	font-size:90%; }
+  
+  	 /*old Notice Box on hm pg*/
+.notebox150 {width:150px;
+    margin-left:70px;
+    margin-right:25px;
+	background:#ccffcc;
+	padding:3px;
+	border:1px solid #000066;
+	text-align:center;
+	font-size:14px; }
+
+.boxbg {background:#ccffcc; 
+	padding:5px;
+	border:1px solid #000066; }
+	
+	
+  	/*smaller image*/
+.speakingpromo {display:block; 
+	margin-left:5px;
+		background-image: url(images/promo-eugene1b.jpg); 
+		background-repeat:no-repeat; 
+		width:400px; 
+		height:524px;}
+	/*larger image*/
+.speakingpromo:hover {position:relative; 
+	top:0; left:0; 
+	background-image:url(images/promo-eugene1.jpg); 
+	background-repeat:no-repeat; 
+	width:551px; 
+	height:723px; 
+	z-index:1000;}
+
+.line {color: #333333;
+	background:#999;
+    width:60%;
+    height:1px;
+	border:0;
+	margin:5px auto 5px auto; }
+
+hr {color: #000080;
+	background:#000;
+    width:70%;
+    height:2px;
+	border:0;
+	margin:10px auto 20px; }
+
+.events {
+	background:#fff;
+	margin:5px 0 ;
+	padding:5px;
+	width:160px;
+	font-size:16px;
+	text-align:center;
+	border:solid 2px #000; }
+	
+form #full_name { display:none; } /*protects email from spam via Johns pl script */
+	
+	
+	/*-------------SPECIAL FEATURES --------*/
+
+  				 /* hm pg and other pgs plus gallery pgs and store */
+	  			/*dont add br after item use margin */ 
+.gallery {  
+    text-align: center;  }
+    
+.galleryitem {
+	width:200px;
+	margin:10px;
+    display: inline-block;
+    text-align: center; 
+    vertical-align: top; } 
+    
+.galleryitem190  { /*for home decor prod*/
+	width:190px; 
+	margin:5px;
+    display: inline-block;
+    text-align: center; 
+    vertical-align: top; }  
+    
+.galleryitem200 {  /*for print page options*/
+	width:200px; 
+	margin:10px;
+    display: inline-block;
+    text-align: left; 
+    vertical-align: top; }  
+
+
+
+.galleryitem300 {
+	width:300px; 
+	margin:10px;
+    display: inline-block;
+    text-align: center; 
+    vertical-align: top; }  
+      
+.galleryitemstore{
+	width:250px;
+	margin:12px;
+    display: inline-block;
+    text-align: center; 
+    vertical-align: top; }   
+    
+.galleryitemrit200 {
+	width:200px;
+	margin:12px;
+    display: inline-block;
+    text-align: center; 
+    vertical-align: bottom; }  
+    
+.galleryitemrit275 {
+	width:275px;
+	margin:12px;
+    display: inline-block;
+    text-align: center; 
+    vertical-align: bottom; }
+    
+#newsletter {
+ display: block; /* 'convert' <a> to <div> */
+ margin-bottom: 10px;
+ background-position: center top;
+ background-repeat: no-repeat;
+ width: 300px;
+ height: 219px;
+ background-image: url('images/newsletter1.png'); }
+#newsletter:hover {
+ background-image: url('images/newspaper-strike1b.png');  }
+ 
+
+    
+.testimonybox {  /*book leigh pg*/
+	float:right;
+	width:175px;
+	padding:8px;
+	font-size:85%;  
+	background:#ebebe0; /* lightest beige of 999966 possible*/
+	border:1px solid #000066;}
+
+.clientlist { text-align:left;
+	line-height:24px;
+	font-size:80%;
+		padding:10px; }
+
+.meetleigh { 
+	float:right;
+	width:280px;
+	margin:8px;
+	border:1px solid #000;
+	background-color:#fff;
+	padding:8px;  }
+	
+.fanboxhm {
+	width:200px;
+	padding:8px ;
+	background-color:#fff;
+	border:1px solid #000;
+	text-align:center; }
+	
+.bk-moo-3pics {
+	float:right; 
+	margin-left:10px;
+	width:12.500em; } /*200px*/
+	
+.twisted-bk {float:right;
+	margin-left:10px; 
+	width:18.750em; } /*300px*/
+	
+.twisted-orderbtn {
+	width:6.250em; } /*100px*/
+	
+.shipping-magnets {
+	margin:60px 0 0 30px;
+	background:#fff;
+	padding:5px;
+	border:1px solid #666;
+	width:225px; 
+	line-height:35.5px;
+	font-size:24px;}
+
+/* --- for iframe videos. add one div around
+ iframe vid with vid wrapper class---- */
+/*  for smaller images put in div with 
+width, i.e., div box400 */
+.videowrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */  
+	padding-top: 25px;
+	height: 0;  }
+.videowrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;  }
+	
+	/* Responsive video other than youtube for HTMl5 MP4 */
+.Rvideo-box 
+	{ background-color: #000;
+	text-align: center;
+	padding: 0px;
+	margin: 0px auto 0px auto;
+	width: 100%;
+	max-width: 430px;
+	height: auto;
+	border: 1px solid #333; }
+
+.Rvideo-box video 
+	{ width: 100%;
+	height: auto;
+	display: block;
+	padding: 0px;
+	margin: 0px;	}
+
+.Rvideo-caption 
+	{	color: #FFFFFF;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+	padding: 2px 2px;	}
+
+.Rvideo-nosupport
+	{	color: #FFFFFF;
+	padding-top: 110px;
+	padding-bottom: 110px;	}
+
+	
+	
+	     /* -----------bookleigh form ---- */
+	
+div#bookleighformwrapper {
+	width: 75%;
+	margin: 10px auto;
+	padding:10px 0;
+	border: 1px solid #999;
+	box-shadow: 3px 3px 3px #ccc; }
+	
+form {width:75%;
+margin:4% 5%; }
+	
+/* Makes responsive fields. Sets size and field alignment.*/
+input[type=text], input[type=submit] {
+	margin-bottom: 15px;
+	margin-top: 10px;
+	width:100%;
+	padding: 8px;
+	border-radius:5px;
+	border:1px solid #7ac9b7; }
+
+input[type=submit] {
+	background-color: #4180C5;
+	color: aliceblue;
+	font-size:100%;
+	cursor:pointer;  }
+	
+submit:hover {
+	background-color: black;  }
+	
+textarea{
+	width:100%;
+	padding: 15px;
+	margin-top: 10px;
+	border:1px solid #7ac9b7;
+	border-radius:5px;
+	margin-bottom: 20px;
+	resize:none;  }
+	
+input[type=text]:focus,textarea:focus {
+	border-color: #4697e4;  }
+	
+	/* -----end book leigh form---- */
+
+
+.box800   {width:800px;
+   margin:0 auto; }
+
+.box760 {width:760px;
+   margin:0 auto; }
+   
+.box700 {width:700px;
+	margin:0 auto; }
+
+.box670 {width:670px;
+   margin:0 auto; }
+
+.box600 {width:600px;
+   margin:0 auto; }
+   
+ .box560  {width:560px;
+   margin:0 auto; }    /* --- for videos -- */
+
+.box500 {width:500px;
+   margin:0 auto; }
+   
+.box450 {width:450px;
+   margin:0 auto; }
+
+.box400 {width:400px;
+   margin:0 auto; }
+   
+.box350 {width:350px;
+   margin:0 auto; }
+
+.box300 {width:300px;
+   margin:0 auto; }
+   
+.box300rt {width:300px;
+   float:right; }
+
+.box250 {width:250px;
+   margin:0 auto; }
+
+.box200 {width:200px;
+   margin:0 auto; }
+   
+.box150 {width:150px;
+   margin:0 auto; }
+
+.box100 {width:100px;
+   margin:0 auto; }
+   
+
+.floatleft {float:left;}
+.floatright {float:right;}
+
+.imgfloatleft {float:left; } /*cow parade page*/
+.imgfloatright {float:right; }
+
+
+.floatright300 {
+	float: right;
+	width: 300px;}
+
+.floatright250 {
+	float: right;
+	width: 250px; }
+	
+.floatleft250 {
+	float: left;
+	width: 250px; }
+	
+.floatright200 {   /*for testimony box on book leigh pg */
+	float: right;
+	width: 200px; }
+	
+
+
+	/*------ responsive menu needs Jquery.js and script.js files loaded  ---*/
+	
+#cssmenu {clear:both;
+  font-family: Verdana, Geneva, sans-serif;
+  font-weight:bold; 
+  line-height: 16px;
+  text-align: center; 
+  padding:2px 0 0 0.313em; /*pad around menu 5px on lft*/
+ 	width:100%; }
+#cssmenu > ul {
+  width: auto;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  background:transparent; }
+#cssmenu > ul li#responsive-tab {
+  display: none;
+  /* Hide for large screens */   }
+#cssmenu > ul li {
+  display: inline-block; 
+  *display:inline;
+  zoom:1;  }
+#cssmenu > ul li.right {
+  float: right;  }
+#cssmenu > ul li.has-sub {
+  text-align:left;
+  position: relative; 
+   	z-index:10; }
+#cssmenu > ul li.has-sub:hover ul {
+  display: block;  }
+#cssmenu > ul li.has-sub ul {
+  display: none;
+  width: 190px;  /*width of drop down box*/
+  position: absolute;
+  margin: 0;
+  font-size:12px;
+  padding-left: 8px; /* indents sub menu items*/
+  list-style-type: none;
+  background: #f0f0f0; /* BG under sub menu */
+  border: 1px solid #999;
+  border-top:none;  } 
+#cssmenu > ul li.has-sub ul li {   	/* top menu drop down links */
+  text-align:left;
+  display: block;  }
+#cssmenu > ul li.has-sub > a {
+  background-image: url(images/caret.png);
+  background-repeat: no-repeat;
+  background-position: 79% -70%;   } /*position of down arrow on rt n top */
+#cssmenu > ul li.has-sub > a.active,   
+#cssmenu > ul li.has-sub > a:hover { /*BG color of top menu has sub on hover  */
+  background:#fff  url(images/caret.png) no-repeat; 
+  background-position: 95% 95%; }
+#cssmenu > ul li a {
+	font-size: 120%; /*FONT SIZE main menu*/
+  display: block;
+  padding: 12px 1.8em 5px 0;  /* pad between categories 29px Rt */
+  text-decoration: none;
+  color:  #000;  }    /* main menu font color black */
+#cssmenu > ul li a.active,
+#cssmenu > ul li a:hover {
+  background:transparent;  /*  BG under main menu links */
+  color:  #999; }   /* font color on hover */ 
+
+
+  /*----Mobile Media queries ---*/
+  /* "menu"  in text and menu icon should appear below 600px */
+@media (max-width: 600px) {
+  #cssmenu > ul {
+    width: 100%; }
+  #cssmenu > ul li#responsive-tab {
+    display: block;  }
+  #cssmenu > ul li#responsive-tab a { 
+    background: url(images/menu-gray.png) no-repeat;
+    background-position: 85% -25%; }
+  #cssmenu > ul li#responsive-tab a:hover {
+    background-color: #ccc;  /* bg under Menu text and icon on mouseover. */
+    background-position: 85% -25%; }
+  #cssmenu > ul li {
+    display: none; }
+  #cssmenu > ul li.right {
+    float: none; }
+  #cssmenu > ul li.has-sub {
+    position: relative; }
+  #cssmenu > ul li.has-sub ul {
+    display: block;
+    position: static;
+    width: 100%;
+    background: #E8E8E8;  /* bg color under mobile sub menu */
+    border: none; }
+  #cssmenu > ul li.has-sub ul li {
+    display: block !important; }
+  #cssmenu > ul li.has-sub ul li a span {  
+    color: #000;  /*black*/
+    display: block;
+    padding-left: 14px; }   
+  #cssmenu > ul li.has-sub > a {
+    background-image: none; }
+  #cssmenu > ul li.active {
+    text-align:left; }
+ 					 }
+/*----------Menu for desktop  ---------*/
+/* Make sure they show even if hidden in mobile view by JS */
+@media (min-width: 600px) {
+  #cssmenu > ul > li.collapsed {
+    display: inline-block !important;
+    *display:inline;
+    zoom:1; }
+  #cssmenu > ul ul li.collapsed {
+    display: block !important; }
+			}
+
+
+  
+/* --- Reg Links ---same need to be listed 
+in nav-- keep above other links----*/
+/*  do not need :link after a . visited
+ inherits a color etc  */
+
+a {color:#0066cc;
+	font-weight: normal;
+	background: transparent;
+	text-decoration: none;
+	font-size:100%; }
+a:hover {color: #999; }
+	
+.footerlinks a {color:#0066cc;
+	font-weight: normal;
+	background: transparent;
+	text-decoration: none;
+	font-size:80%; }
+.footerlinks a:hover {color: #999; }
+	
+
+/*========================MEDIA==================================*/
+
+
+	/* max 320 Smartphones portrait */
+	/* leave 'device" out to be able to view on computer */
+@media only screen and (max-width:320px) { 
+body {font-size:98%; }
+#container {width:100%; padding:0; }
+#header { width:100%; margin:10px auto; }
+#logo {float:none; width:100%; text-align:center; }
+.headergallery {clear:both; width:280px;margin-left:0; }
+.headergalleryitem {width:100px;margin:10px 1px 0; }
+#content  {width:99%; padding:2%; }
+h1 {margin:0 auto; padding:10px 10px; font-size:1.250em; display:block; word-wrap:break-word; } /*18px*/
+h2 {clear:both; font-size:1.000em; word-wrap:break-word;} /*16px*/
+ul li {margin-left:0; font-size:0.875em; }  /*3px 14px*/
+.box700,.box600,.box500,.box450,.box400,.box350 {width:95%; border:1px solid #999;}
+#form { margin:0}	
+.galleryitem {padding:0; margin:0; }
+.social{ left: 15%; }
+.socialicons {clear:both;	float:none;  text-align:center; }
+.socialicons img {height: 20px;width: 20px; margin:8px; }
+.sociallikes {width:280px; }
+.testimonybox {	float:none; clear:both; width:80%; margin:10px auto;}
+.bk-moo-3pics, .twistedbk, .twisted-orderbtn {display:block; float:none; margin:0 auto;}
+.imgfloatright, .imgfloatleft {float:none; width:100%; text-align:center; }
+.fanboxhm {float:none; clear:both; width:100%; margin:0 auto; }
+	}
+
+
+	/* min320 x max480  Smartphones portrait and landscape */
+		/* leave 'device" out to be able to view on computer */
+@media only screen and (min-width:320px) and (max-width:480px) {
+body {font-size:98%; }
+#container {width:100%; padding:0; }
+#header { width:100%; margin:10px auto; }
+#logo {float:none; width:100%; text-align:center; }
+.headergallery {clear:both; width:100%;margin-left:0; text-align:center; }
+.headergalleryitem {width:100px;margin:10px 1px 0; }
+#content  {width:99%; padding:2%; }
+h1 {margin:0 auto;padding:10px 10px; font-size:1.250em; display:block; word-wrap:break-word; } /*18px*/
+h2 {clear:both; font-size:1.000em; word-wrap:break-word;} /*16px*/
+.hrline { padding-top:0; }
+ul li {margin-left:0; font-size:0.875em; }  /*3px 14px*/
+.box700,.box600,.box500,.box450,.box400,.box350 {width:95%;}
+.meetleigh { float:none; margin:0 auto;  }
+#form { margin:0}	
+.galleryitem {padding:0; margin:0; }
+.social{ left: 15%; }
+.socialicons {clear:both;	float:none; text-align:center; }
+.socialicons img {height: 20px;width:20px; margin:8px; }
+.sociallikes {width:280px; }
+.testimonybox {	float:none; clear:both; width:80%; margin:10px auto;}
+.bk-moo-3pics, .twistedbk, .twisted-orderbtn {display:block; float:none; margin:0 auto;}
+.imgfloatright, .imgfloatleft {float:none; width:100%; text-align:center; }
+.fanboxhm {float:none; clear:both; width:100%; margin:0 auto; }
+}
+
+
+	/* min 481 x max 767  TABLET  */
+@media only screen and (min-width:481px) and (max-width: 767px) {
+body {font-size:95%; }
+#header { width:100%; margin:10px auto; }
+#logo {float:none; width:100%; text-align:center; }
+.headergallery {clear:both; width:100%; margin-left:0; text-align:center; }
+.headergalleryitem {clear:both; width:100px;margin:10px 1px 0; }
+#content { width:95%; padding:2%; }
+h1 {clear:both; text-align:center; padding:10px 0;font-size:1.500em; display:block; word-wrap:break-word; } /*24px*/
+h2 {font-size:1.125em; text-align:center; word-wrap:break-word; margin-top:10px;} /*18px*/
+.headerphemail {float:none; margin:0 auto;  padding:10px 0 0 1.250em; }
+.box700,.box600,.box500 {width:95%;}
+.socialicons img {margin:5px; }
+table.data {float:none; }
+#form { clear:both; margin:0}	
+nav {text-align:center; }
+nav ul     { display: none; }
+nav select { display: inline-block; }
+.testimonybox {	float:none; clear:both; width:80%; margin:10px auto;}
+.bk-moo-3pics, .twistedbk, .twisted-orderbtn {display:block; float:none; margin:0 auto;}
+.fanboxhm {float:none; clear:both; width:100%; margin:0 auto; }
+   }
+
+
+	/* min 768 to max 960 iPads (portrait) Tablets */
+  @media only screen and (min-width : 768px) and (max-width : 960px) 
+and (orientation : portrait) { 
+#content  {width:97%;}   
+h1 {margin:0; font-size:1.875em; text-align:center; word-wrap:break-word;}  /*30px*/
+h2 {font-size: 1.8em; }
+	 }
+	 
+
+
+

@@ -1,0 +1,9 @@
+<div class="shipping-magnets center">
+(US only)<br>
+We are not shipping Internationally<br>
+at this time,<br>except to Canada<br>
+<p class="center lgfont pad20l">
+All Magnets are 2.5" x 3.5"<br>
+Quantities can be changed in cart
+</p></div><!-- end shipping mssg -->
+
